@@ -87,70 +87,7 @@ public class WexWSApi {
 			throw new WexWSApiException("Error while running query: " + ex.getMessage(), ex);
 		}
 	}
-	
-	/**
-	 * This method execute the combination of queries using keywords and returning the number of returned rows per query
-	 * @param req
-	 * @return
-	 * @throws WexWSApiException
-	 */
-	public Response executeQueryKeywords(Request req) throws WexWSApiException {
-		validateRequest(req);
-		
-		String smartConditions = getSmartConditions(req);
-		if (smartConditions != null && smartConditions.length() > 0){
-			req.addFilter(WexRequestBuilders.xpathFilter(smartConditions));
-		}
-		
-		req.setQuery(clearQueryString(req.getQuery()));
-		//req.setNumberOfRequestedRecords(getResultsNumberCluster(req.getNumberOfRequestedRecords()));
-		try {
-			Response response = queryBO.executeQuery(req);
-			return response;
-		} catch (Exception ex) {
-			throw new WexWSApiException("Error while running query: " + ex.getMessage());
-		}
-	}
-	
-	/**
-	 * This method should receive a NLQ request and based on the extracted keywords, classify them as "must have" or "nice to have" 
-	 * @param Request - the request with the NLQ query 
-	 * @return a KeywordClassifier object with the keywords classification lists
-	 */
-	public KeywordClassification getClassifiedKeywords(Request req) throws WexWSApiException {
-		
-		if (!req.isNlq()) {
-			throw new WexWSApiException("The classified keywords can only be extracted from a NLQ request.");
-		}
-		
-		String originalQuery = req.getQuery();
-		String cleanQuery = insertDoubleQuotes(originalQuery);
-		try {
-			if (cleanQuery == null || cleanQuery.length() == 0) {
-				throw new WexWSApiException("The classified keywords can only be extracted from a non-empty NLQ query.");
-			}
 
-			String keysFound = queryBO.executeQueryModifier(cleanQuery);			
-			return new KeywordClassification(originalQuery, keysFound);
-		
-		} catch (Exception ex) {
-			throw new WexWSApiException("Error while running query: " + ex.getMessage());
-		}
-	}
-	
-	public List<KeywordFilter> extractKeywords(String text) throws WexWSApiException {
-		try {
-			CustomKeywordsExtractor extractor = CustomKeywordsExtractor.getInstance();
-			return extractor.findKeywords(text);
-		} catch (Exception ex) {
-			throw new WexWSApiException("Error while running query: " + ex.getMessage());
-		}
-	}
-
-	public String executeQueryParse(String searchQuery) {
-		return queryBO.executeQueryParse(searchQuery);
-	}
-	
 	private String clearQueryString(String queryString){
 		String cleanQuery = queryString;
 		String finalCleanQuery = "";
@@ -203,26 +140,6 @@ public class WexWSApi {
 		return null;		
 	}
 	
-	
-	
-	
-	@SuppressWarnings("unused")
-	private String getIOT(Request req){
-		String IOT = null;
-		try{
-			if (null != req.getFacetSelections()) {
-				for (FacetSelection fs : req.getFacetSelections()) {
-					if (fs.getName().equalsIgnoreCase("WORK_LOCATION_IOT")) {
-						IOT = fs.getSelections().get(0);
-					}
-				}
-			}
-		} catch(Exception ex){
-			System.out.println("ERROR at getIOT:" + ex.getMessage());
-		}
-		return IOT;
-	}
-	
 	private String removeStopWords(String textSearch){
 		String cleanTextSearch = textSearch;
 		try{
@@ -271,24 +188,6 @@ public class WexWSApi {
 				}
 			}
 		}
-	}
-	@SuppressWarnings("unused")
-	@Deprecated
-	private int getResultsNumberCluster(int numRows){
-		try {
-			if (numRows == 0){ // the case that we search for IDs
-				return 20;
-			}
-			if (env.equalsIgnoreCase("systest") && numRows >= 5) {
-				return(numRows / 2);
-			} else if ((env.equalsIgnoreCase("prod") || env.equalsIgnoreCase("dev")) && numRows >= 5) {
-				return(numRows / 3);
-			}
-		} catch (Exception ex) {
-			// Change - logger
-			System.out.println("ERROR while setting number of requested records based on environment: " + ex.getMessage());
-		}
-		return 10;
 	}
 	
 	static void combinationUtil(String arr[], String data[], int start, int end, int index, int r) {
