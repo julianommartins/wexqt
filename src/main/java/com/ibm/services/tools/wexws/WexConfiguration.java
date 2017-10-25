@@ -18,11 +18,9 @@ public class WexConfiguration {
 	
 	private String environmentId;
 	private Properties prop;
-	//private Map<String, List<String>> shardsByCollectionName;
 	private Map<String,Collection> collectionMap;
 	private Map<String,CollectionShard> collectionShardMap;
 	private Map<String,String> ontolectionMap;
-	//private List<String> servers;
 	private List<Server> servers;
 	
 	public WexConfiguration(String environmentId) {
@@ -35,10 +33,6 @@ public class WexConfiguration {
 			e.printStackTrace();
 		}
 	}
-	
-//	public List<String> getServes(){
-//		return servers;
-//	}
 	
 	public List<Server> getServers(){
 		return servers;
@@ -66,23 +60,9 @@ public class WexConfiguration {
 		return get(collectionName+".arena");
 	}
 
-//	public List<String> getShards(String collectionName){
-//		return shardsByCollectionName.get(collectionName);
-//	}
 	public List<CollectionShard> getShards(String collectionName){
 		return collectionMap.get(collectionName).getShards();
 	}
-
-//	private List<String> lookupServers(){
-//		List<String> servers = new ArrayList<String>(5);
-//		for(int i=1; i<100; i++){
-//			String server = get("wex.server."+i);
-//			if(server==null) break;
-//			servers.add(server);
-//		}
-//		return servers;
-//	}
-//	
 
 	private List<Server> lookupServers(){
 		List<Server> servers = new ArrayList<Server>();
@@ -150,41 +130,6 @@ public class WexConfiguration {
 		}
 		return null;
 	}
-
-//	private void init(){
-//		shardsByCollectionName = new HashMap<String, List<String>>();
-//		collectionMap = new HashMap<String, Collection>();
-//		ontolectionMap = new HashMap<String, String>();
-//		servers = lookupServers();
-//		
-//		for(Entry<Object,Object> entry : prop.entrySet()){
-//			String key = (String)entry.getKey();
-//			if(key.endsWith(".shards")){
-//				String collectionName = key.substring(0, key.indexOf(".shards"));
-//				List<String> shards = new ArrayList<String>(4);
-//				shardsByCollectionName.put(collectionName, shards);
-//				for( String shard : ((String)entry.getValue()).split(",")) {
-//					int idx = shard.indexOf(":");
-//					String name = shard.substring(0,idx);
-//					shards.add(name);
-//					
-//					List<Integer> serverList = new ArrayList<Integer>(4);
-//					for(String serversIndex : shard.substring(idx+1).split(":")){
-//						int i = Integer.parseInt(serversIndex);
-//						serverList.add(i);
-//					}
-//					Collection c = new Collection(name, serverList);
-//					collectionMap.put(c.getCollectionName(), c);
-//				}
-//			}
-//			
-//			if (key.endsWith(".ontolection")){
-//				String collectionName = key.substring(0, key.indexOf(".ontolection"));
-//				ontolectionMap.put(collectionName, (String)entry.getValue());
-//				
-//			}
-//		}
-//	}
 	
 	public CollectionShard getCollectionShardByName(String collectionShardName){
 		return this.collectionShardMap.get(collectionShardName);
