@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<vse-status version="6.0" which="live" token="WPoZVQAABQip"
+config-md5="dff88b4c0b4014ddaa37f5758da63894"
+crawler-config-md5="84ca902cfcdc5df9266e69e9b074391d"
+indexer-config-md5="ef28bef69e75d4d27a90995778f32671"
+>
+<crawler-status config-md5="84ca902cfcdc5df9266e69e9b074391d" time="1506644119"
+  elapsed="2732360" this-elapsed="104999" host="all" n-input="0" n-output="0"
+  n-errors="0" n-http-errors="0" n-http-location="0" n-filtered="0" n-robots="0"
+  conversion-time="0" n-sub="0" n-bytes="0.000000" n-dl-bytes="0.000000"
+  converted-size="0.000000" n-pending="0" n-redirect="0" n-duplicates="0"
+  n-deleted="3" n-cache-complete="0" n-awaiting-index-input="0" n-offline-queue="0"
+  n-awaiting-index-reply="0" n-pending-internal="0" n-awaiting-gate="0"
+  n-awaiting-input="0" n-error-rows="0" complete="complete" idle="idle"
+  id="Wcv2cAAABDf3" service-status="running"
+>
+  <converter-timings total-ms="1458" />
+  <crawl-thread name="fetcher" ms="104978566" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978566" state="initialized" />
+  <crawl-thread name="converter" ms="104978562" state="initialized" />
+  <crawl-thread name="exec" ms="104978567" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978565" state="initialized" />
+  <crawl-thread name="delay" ms="104978568" state="nothing delayed." />
+  <crawl-thread name="manager" ms="618" state="idle" />
+  <crawl-thread name="dns" ms="11900080" state="idle" />
+  <crawl-thread name="dns" ms="2331262" state="idle" />
+  <crawl-thread name="output" ms="2331260" state="idle" />
+  <crawl-thread name="remote listener" ms="28" state="waiting on select()" />
+  <crawl-thread name="gatekeeper" ms="104978571" state="idle" />
+  <crawl-thread name="fe-listener" ms="104978562" state="idle" />
+  <crawl-thread name="converter" ms="2331261" state="idle" />
+  <crawl-thread name="fetcher" ms="104978567" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978566" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978565" state="initialized" />
+  <crawl-thread name="dns" ms="104978569" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978565" state="initialized" />
+  <crawl-thread name="indexer input" ms="28" state="idle" />
+  <crawl-thread name="dns" ms="11373998" state="idle" />
+  <crawl-thread name="remote notifier" ms="2329202" state="idle" />
+  <crawl-thread name="remote client worker rcmvpmp02.boulder.ibm.com:5072"
+    ms="1099" state="connected and waiting on reply"
+  />
+  <crawl-thread name="converter" ms="10527268" state="idle" />
+  <crawl-thread name="fetcher" ms="104978567" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978565" state="initialized" />
+  <crawl-thread name="reorder" ms="104978568" state="initialized" />
+  <crawl-thread name="fetcher" ms="104978565" state="initialized" />
+  <crawl-thread name="delay-w" ms="82" state="nothing is delayed." />
+  <crawl-thread name="dns" ms="11888031" state="idle" />
+  <crawl-thread name="indexer output" ms="2330260" state="idle" />
+  <crawl-thread name="remote listener worker" ms="894" state="processing request" />
+  <crawl-thread name="dns" ms="10527268" state="idle" />
+  <crawl-thread name="input" ms="2331262" state="idle" />
+  <crawl-remote-status name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+    current="3690799" serve-from="0" serve-to="0" crawl-id="1492785494.1833622399"
+  />
+  <crawl-remote-status name="PMP_Opportunity_1_2#rcmvpmp01.boulder.ibm.com"
+    current="3693032" serve-from="0" serve-to="0" crawl-id="1492785494.1264143171"
+  />
+  <crawl-client-status
+    client-name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+    collection-name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com" current="3690799"
+  />
+  <crawl-client-status
+    client-name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+    collection-name="PMP_Opportunity_1_2#rcmvpmp01.boulder.ibm.com" current="3693032"
+  />
+  <crawl-remote-all-status>
+    <crawl-remote-server-status>
+      <crawl-remote-connection-status
+        name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+        state="waiting on new updates for client" ms="893"
+      >
+        <crawl-remote-collection-status
+          name="PMP_Opportunity_1_2#rcmvpmp01.boulder.ibm.com"
+          state="synchronized: 3693032 of 3693032 updates applied"
+        />
+        <crawl-remote-collection-status
+          name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+          state="synchronized: 3690799 of 3690799 updates applied"
+        />
+      </crawl-remote-connection-status>
+    </crawl-remote-server-status>
+    <crawl-remote-client-status>
+      <crawl-remote-connection-status name="rcmvpmp02.boulder.ibm.com:5072"
+        state="connected and waiting on reply" ms="1099"
+      >
+        <crawl-remote-collection-status
+          name="PMP_Opportunity_1_2#rcmvpmp01.boulder.ibm.com"
+          state="synchronized: 3693032 of 3693032 updates applied"
+        />
+        <crawl-remote-collection-status
+          name="PMP_Opportunity_1_2#rcmvpmp02.boulder.ibm.com"
+          state="synchronized: 3690799 of 3690799 updates applied"
+        />
+      </crawl-remote-connection-status>
+    </crawl-remote-client-status>
+  </crawl-remote-all-status>
+  <crawl-hops-output>
+    <crawl-hop hop="0" n="9223372036854774782" />
+  </crawl-hops-output>
+  <crawl-hops-input>
+    <crawl-hop hop="0" n="1026" />
+  </crawl-hops-input>
+  <queues>
+    <request-queue name="inputs" n="0" size="-1" total-insert="22407"
+      n-entering="1" n-producers="0" max-idle="8195908" percent-idle="97.5221"
+    />
+    <request-queue name="dns" n="0" size="-1" total-insert="22407" n-entering="6"
+      n-producers="0" max-idle="8195908" percent-idle="97.7746"
+    />
+    <request-queue name="host delay" n="0" size="10" total-insert="0"
+      n-entering="1" n-producers="0" max-idle="0" percent-idle="0"
+    />
+    <request-queue name="reordering" n="0" size="10" total-insert="0"
+      n-entering="1" n-producers="0" max-idle="0" percent-idle="0"
+    />
+    <request-queue name="url fetcher" n="0" size="10" total-insert="0"
+      n-entering="10" n-producers="0" max-idle="0" percent-idle="0"
+    />
+    <request-queue name="link extractor" n="0" size="10" total-insert="22407"
+      n-entering="3" n-producers="0" max-idle="8196006" percent-idle="97.7189"
+    />
+    <request-queue name="output" n="0" size="2" total-insert="33393"
+      n-entering="1" n-producers="0" max-idle="8196007" percent-idle="97.5109"
+    />
+    <request-queue name="indexer output" n="0" size="2" total-insert="25001"
+      n-entering="1" n-producers="0" max-idle="8195531" percent-idle="97.6208"
+    />
+  </queues>
+</crawler-status>
+<vse-index-status identifier="Wc2HfQhdRVbe" slice="0" n-slices="1"
+  start-time="1506115095" indexing-time="529024" indexed-urls="22113"
+  indexed-datas="532685" indexed-docs="0" indexed-contents="1064885"
+  indexed-bytes="11564796" error-datas="0" error-items="0" n-docs="2646401"
+  max-docs="2646401" config-md5="ef28bef69e75d4d27a90995778f32671"
+  running-time="529024" input-port="59360" input-token="WcV+FwAAClbe"
+  channel-port="52849" channel-token="WcV+FwAAC1be" service-status="running"
+>
+  <vse-serving port="50972" n-queries="1892" n-cached-queries="1771" n-pings="0"
+    n-documents="98510" n-no-documents="2" ms-queries="378319" n-threads="5"
+    n-idle-threads="5" q-p-s-1="0" q-p-s-5="0" q-p-s-15="0"
+  />
+  <vse-index-file name="viv_idx_b1FPxG" fname="./viv_idx_b1FPxG" type="index"
+    size="3109841408" at="1506621053" n-docs="2646401" max-docs="2646401"
+    min-docid="0" max-docid="2646400" merge="active"
+  >
+    <vse-index-content name="0_INDUSTRY" n="292108" words="446778" />
+    <vse-index-content name="url#" n="13206500" words="325121047" />
+    <vse-index-content name="0_CRM_RDMAP_STAT_DESC" n="2646161" words="2646161" />
+    <vse-index-content name="0_DECISION_DATE_FACET" n="2646161" words="2646161" />
+    <vse-index-content name="0_CRM_INDUSTRY" n="868087" words="1372536" />
+    <vse-index-content name="0_REASON_PLAN_NOT_REQUIRED" n="7938474"
+      words="15877311"
+    />
+    <vse-index-content name="0_REASON_PLAN_NOT_REQUIRED_FACET" n="7938474"
+      words="7938474"
+    />
+    <vse-index-content name="0_EMAIL_SENT" n="7938474" words="7938474" />
+    <vse-index-content name="0_CLIENT_NAME" n="1046449" words="3516498" />
+    <vse-index-content name="0_SALES_STAGE" n="2646161" words="2646161" />
+    <vse-index-content name="0_STAFFING_PLAN_REQUESTED_BY_NOTES_ID" n="7938474"
+      words="15882385"
+    />
+    <vse-index-content name="0_IOT" n="1046680" words="1046680" />
+    <vse-index-content name="0_NAME" n="2646400" words="13087921" />
+    <vse-index-content name="0_ASSOCIATED_PLANS" n="355" words="355" />
+    <vse-index-content name="0_PLAN_CREATED" n="7939194" words="7939194" />
+    <vse-index-content name="0_COMMENTS" n="7938474" words="15877673" />
+    <vse-index-content name="0_COUNTRY" n="1046626" words="1046626" />
+    <vse-index-content name="0_OPPORTUNITY_TYPE" n="2646401" words="2646401" />
+    <vse-index-content name="0_WIN_ODDS_FACET" n="2646161" words="2646161" />
+    <vse-index-content name="0_CRM_SECTOR" n="1029988" words="1882067" />
+    <vse-index-content name="0_doc#" n="2646401" words="0" />
+    <vse-index-content name="0_LOB" n="270656" words="383421" />
+    <vse-index-content name="0_SECTOR" n="2646378" words="5111970" />
+    <vse-index-content name="0_OPPORTUNITY_ID" n="2646401" words="2646401" />
+    <vse-index-content name="0_LAST_MODIFIED_BY_NOTES_ID" n="2442794"
+      words="9771783"
+    />
+    <vse-index-content name="0_SERVICE" n="315188" words="1004427" />
+    <vse-index-content name="0_VENDOR" n="80785" words="165972" />
+    <vse-index-content name="0_CRM_WIN_ODDS_FACET" n="2646160" words="2646160" />
+    <vse-index-content name="0_REVENUE_USD_FACET" n="2618562" words="2618562" />
+    <vse-index-content name="0_EMAIL_RECIPIENT" n="4853" words="27043" />
+    <vse-index-content name="0_OWNER_NOTES_ID" n="573173" words="2537102" />
+    <vse-index-content name="0_REVENUE_USD" n="2621164" words="2621164" />
+    <vse-index-content name="0_PLAN_REQUIRED" n="7938474" words="7938474" />
+    <vse-index-content name="0_WIN_ODDS" n="2646401" words="2646401" />
+    <vse-index-content name="0_REASON_PLAN_NOT_REQUIRED_OTHER_TEXT" n="7938474"
+      words="7938474"
+    />
+    <vse-index-content name="0_LAST_MODIFIED_TIME" n="2646401" words="2646401" />
+    <vse-index-content name="0_CRM_WIN_ODDS" n="2646161" words="2646161" />
+    <vse-index-content name="0_CRM_VENDOR" n="1000915" words="3400240" />
+    <vse-index-content name="0_SALES_STAGE_FACET" n="2646161" words="2646161" />
+    <vse-index-content name="0_IMT" n="1046680" words="1046680" />
+    <vse-index-content name="0_EMAIL_RECIPIENT_FACET" n="7938474" words="7938474" />
+    <vse-index-content name="0_OPPORTUNITY_CRM_ID" n="2646401" words="5291120" />
+    <vse-index-content name="0_DECISION_DATE" n="1000996" words="1000996" />
+    <vse-index-content name="0_ADMINISTRATOR_THRESHOLD" n="7456697"
+      words="7456697"
+    />
+    <vse-index-content name="0_STAFFING_PLAN_REQUESTED_BY_NOTES_ID_FACET"
+      n="1347" words="1347"
+    />
+    <vse-index-content name="0_" n="133258998" words="189215648" />
+  </vse-index-file>
+  <vse-index-file name="viv_idx_oaFuAu" fname="./viv_idx_oaFuAu" type="index"
+    size="637952" at="1506630446" n-docs="2646401" max-docs="2646401" min-docid="0"
+    max-docid="2546774" merge="active"
+  >
+    <vse-index-content name="del#" n="4054" words="16206" />
+    <vse-index-content name="0_" n="8103" words="8103" />
+    <vse-index-content name="0_REVENUE_USD_FACET" n="4049" words="4049" />
+    <vse-index-content name="url#" n="4054" words="16206" />
+    <vse-index-content name="0_REVENUE_USD" n="4054" words="4054" />
+  </vse-index-file>
+  <vse-index-file name="viv_idx_ymxnq6" fname="./viv_idx_ymxnq6" type="index"
+    size="245248" at="1506631513" n-docs="2646401" max-docs="2646401"
+    min-docid="8460" max-docid="2546791" merge="active"
+  >
+    <vse-index-content name="del#" n="1458" words="5832" />
+    <vse-index-content name="0_" n="2916" words="2916" />
+    <vse-index-content name="0_REVENUE_USD_FACET" n="1458" words="1458" />
+    <vse-index-content name="url#" n="1458" words="5832" />
+    <vse-index-content name="0_REVENUE_USD" n="1458" words="1458" />
+  </vse-index-file>
+  <vse-index-file name="viv_idx_8hAZ2Y" fname="./viv_idx_8hAZ2Y" type="index"
+    size="96768" at="1506632265" n-docs="2646401" max-docs="2646401" min-docid="7271"
+    max-docid="2494725" merge="active"
+  >
+    <vse-index-content name="del#" n="503" words="2012" />
+    <vse-index-content name="0_" n="1006" words="1006" />
+    <vse-index-content name="0_REVENUE_USD_FACET" n="503" words="503" />
+    <vse-index-content name="url#" n="503" words="2012" />
+    <vse-index-content name="0_REVENUE_USD" n="503" words="503" />
+  </vse-index-file>
+  <vse-index-file name="viv_idx_OV54er" fname="./viv_idx_OV54er" type="index"
+    size="34304" at="1506641789" n-docs="2646401" max-docs="2646401" min-docid="957"
+    max-docid="2495035" merge="active"
+  >
+    <vse-index-content name="del#" n="119" words="476" />
+    <vse-index-content name="0_" n="238" words="238" />
+    <vse-index-content name="0_REVENUE_USD_FACET" n="119" words="119" />
+    <vse-index-content name="url#" n="119" words="476" />
+    <vse-index-content name="0_REVENUE_USD" n="119" words="119" />
+  </vse-index-file>
+  <vse-index-cache-statuses block-size="8192">
+    <vse-index-cache-status fname="./viv_idx_b1FPxG" core-size="22974976">
+      <vse-index-cache-status-segment i="0" size="1778327552"
+        allocated="1778327552" last="1778327552"
+      />
+      <vse-index-cache-status-segment i="1" size="4222418944"
+        allocated="399712256" last="399720448"
+      />
+      <vse-index-cache-status-segment i="2" size="1539014656"
+        allocated="399712256" last="399720448"
+      />
+      <vse-index-streams multi-stream="multi-stream">
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="4"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" arena="PMP_Opportunity_Entity_Type"
+        >
+          <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="japanese-indexing"
+          segmenter="japanese" id="5" delanguage="true" wildcard-stem="case"
+          wildcard-delanguage="true" segmenter-version="2"
+          arena="PMP_Opportunity_Entity_Type"
+        >
+          <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="6"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="7"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="1"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="8"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="2"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="9"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="3" fast-index-base="10"
+          fast-index-high="2" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="10"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="4"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="11"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="5"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="12"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="6" fast-index-base="10"
+          fast-index-high="1" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="13"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="7" fast-index-base="10"
+          fast-index-high="9" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="14"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="8"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="15"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="9"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="16"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="10"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="17"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="11"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="18"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="12"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="19"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="13" fast-index-base="10"
+          fast-index-high="7" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="20"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="14" fast-index-base="10"
+          fast-index-high="5" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="21"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="15"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="22"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="16"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="23"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="17"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="24"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="18"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="25"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="19"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="26"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="21"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="27"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="22" fast-index-base="10"
+          fast-index-high="10" fast-index-low="-9" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="28"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="23"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="29"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="24"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="30"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="25"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="31"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="26"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="32"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="27"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="33"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="28"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="34"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="30"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="35"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="32"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="36"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="33"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="37"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="34"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="38"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="35"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="39"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="36"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="38" fast-index-base="10"
+          fast-index-high="10" fast-index-low="-7" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="39"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+      </vse-index-streams>
+    </vse-index-cache-status>
+    <vse-index-cache-status fname="./viv_idx_oaFuAu" core-size="5632">
+      <vse-index-cache-status-segment i="0" size="442368" allocated="442368"
+        last="442368"
+      />
+      <vse-index-cache-status-segment i="1" size="425984" allocated="425984"
+        last="425984"
+      />
+      <vse-index-cache-status-segment i="2" size="172032" allocated="172032"
+        last="172032"
+      />
+      <vse-index-streams multi-stream="multi-stream">
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="38" fast-index-base="10"
+          fast-index-high="8" fast-index-low="-5" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="39"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+      </vse-index-streams>
+    </vse-index-cache-status>
+    <vse-index-cache-status fname="./viv_idx_ymxnq6" core-size="2048">
+      <vse-index-cache-status-segment i="0" size="163840" allocated="163840"
+        last="163840"
+      />
+      <vse-index-cache-status-segment i="1" size="155648" allocated="155648"
+        last="155648"
+      />
+      <vse-index-cache-status-segment i="2" size="73728" allocated="73728"
+        last="73728"
+      />
+      <vse-index-streams multi-stream="multi-stream">
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="38" fast-index-base="10"
+          fast-index-high="8" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="39"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+      </vse-index-streams>
+    </vse-index-cache-status>
+    <vse-index-cache-status fname="./viv_idx_8hAZ2Y" core-size="1024">
+      <vse-index-cache-status-segment i="0" size="57344" allocated="57344"
+        last="57344"
+      />
+      <vse-index-cache-status-segment i="1" size="57344" allocated="57344"
+        last="57344"
+      />
+      <vse-index-cache-status-segment i="2" size="32768" allocated="32768"
+        last="32768"
+      />
+      <vse-index-streams multi-stream="multi-stream">
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="38" fast-index-base="10"
+          fast-index-high="7" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="39"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+      </vse-index-streams>
+    </vse-index-cache-status>
+    <vse-index-cache-status fname="./viv_idx_OV54er" core-size="512">
+      <vse-index-cache-status-segment i="0" size="16384" allocated="16384"
+        last="0"
+      />
+      <vse-index-cache-status-segment i="1" size="16384" allocated="16384"
+        last="0"
+      />
+      <vse-index-cache-status-segment i="2" size="8192" allocated="8192" last="0" />
+      <vse-index-streams multi-stream="multi-stream">
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="38" fast-index-base="10"
+          fast-index-high="6" fast-index-low="0" fast-index-min-exponent="0"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+        <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+          delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+          segmenter-version="1" fast-index-field="39"
+        >
+          <vse-tokenizer name="simple" version="2" />
+        </vse-index-stream>
+      </vse-index-streams>
+    </vse-index-cache-status>
+  </vse-index-cache-statuses>
+  <vse-index-merging-status>
+    <vse-index-merger-status max-size="100" total-ms="528540">
+      <vse-index-merge-status n-segments="1" n-indices="1" start="1506641789"
+        to-read="114688" read="114688" written="40960" end="1506641789"
+      />
+      <vse-index-merge-status n-segments="1" n-indices="1" start="1506633592"
+        to-read="98304" read="98304" written="40960" end="1506633592"
+      />
+      <vse-index-merge-status n-segments="1" n-indices="1" start="1506632746"
+        to-read="98304" read="98304" written="24576" end="1506632746"
+      />
+      <vse-index-merge-status n-segments="1" n-indices="1" start="1506632367"
+        to-read="90112" read="90112" written="24576" end="1506632367"
+      />
+      <vse-index-merge-status n-segments="1" n-indices="0" start="1506632300"
+        to-read="65536" read="65536" written="16384" end="1506632300"
+      />
+    </vse-index-merger-status>
+    <vse-index-merger-status min-size="100" max-size="1000" />
+    <vse-index-merger-status min-size="1000" max-size="50000" />
+    <vse-index-merger-status min-size="50000" total-ms="2356947">
+      <vse-index-merge-status n-segments="0" n-indices="5" start="1506644078"
+        to-read="7587799040" read="244375552" written="244318208"
+      />
+      <vse-index-merge-status n-segments="0" n-indices="6" start="1506620705"
+        to-read="7715184640" read="7715184640" written="3205685248" end="1506621058"
+      />
+      <vse-index-merge-status n-segments="0" n-indices="1" start="1506534305"
+        to-read="7586004992" read="7586004992" written="3205595136" end="1506534594"
+      />
+      <vse-index-merge-status n-segments="0" n-indices="1" start="1506528109"
+        to-read="7586004992" read="7586004992" written="3205595136" end="1506528406"
+      />
+      <vse-index-merge-status n-segments="0" n-indices="1" start="1506447900"
+        to-read="7586004992" read="7586004992" written="3205595136" end="1506448293"
+      />
+    </vse-index-merger-status>
+  </vse-index-merging-status>
+  <reconstructor-statuses ms="630220" n-pending="0" priority="0">
+    <reconstructor-status n-to-do="21" n-done="21" start="1506632367"
+      end="1506632367"
+    />
+    <reconstructor-status n-to-do="9" n-done="9" start="1506632242"
+      end="1506632242"
+    />
+    <reconstructor-status n-to-do="26" n-done="26" start="1506632229"
+      end="1506632229"
+    />
+    <reconstructor-status n-to-do="13" n-done="13" start="1506632223"
+      end="1506632223"
+    />
+    <reconstructor-status n-to-do="24" n-done="24" start="1506631863"
+      end="1506631863"
+    />
+    <value-set-field name="CRM_WIN_ODDS_FACET" type="set" arena-id="0"
+      n-values="6" n-instances="2646160" data-bytes="5292320" meta-bytes="192"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_TYPE" type="set" arena-id="0" n-values="3"
+      n-instances="2646401" data-bytes="5292802" meta-bytes="89" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_SECTOR" type="set" arena-id="0" n-values="7"
+      n-instances="1029988" data-bytes="2059976" meta-bytes="263" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="6286573" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_CRM_ID" type="set" arena-id="0"
+      n-values="2645181" n-instances="2646401" data-bytes="11117298"
+      meta-bytes="93659229" state="transient" indexed="indexed"
+    />
+    <value-set-field name="NAME" type="set" arena-id="0" n-values="2216821"
+      n-instances="2646400" data-bytes="10553322" meta-bytes="136679124"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_TIME" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="15878406" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="INDUSTRY" type="set" arena-id="0" n-values="23"
+      n-instances="292108" data-bytes="584216" meta-bytes="948" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS_FACET" type="set" arena-id="0" n-values="6"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="192" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE_FACET" type="set" arena-id="0"
+      n-values="10" n-instances="2646161" data-bytes="5292322" meta-bytes="496"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SECTOR" type="set" arena-id="0" n-values="8"
+      n-instances="2646378" data-bytes="5292756" meta-bytes="291" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_RDMAP_STAT_DESC" type="set" arena-id="0"
+      n-values="7" n-instances="2646161" data-bytes="5292322" meta-bytes="225"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_ID" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="13121210" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="6054776" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IOT" type="set" arena-id="0" n-values="7"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="246" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IMT" type="set" arena-id="0" n-values="28"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="958" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="COUNTRY" type="set" arena-id="0" n-values="206"
+      n-instances="1046626" data-bytes="2095570" meta-bytes="6866" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CLIENT_NAME" type="set" arena-id="0" n-values="264038"
+      n-instances="1046449" data-bytes="3749819" meta-bytes="12422488"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="CRM_INDUSTRY" type="set" arena-id="0" n-values="22"
+      n-instances="868087" data-bytes="1736174" meta-bytes="920" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="-1"
+      n-values="12" n-instances="0" data-bytes="0" meta-bytes="592" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="0"
+      n-values="12" n-instances="2646161" data-bytes="5292322" meta-bytes="592"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="0"
+      n-instances="1000996" data-bytes="6005977" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="VENDOR" type="set" arena-id="0" n-values="113"
+      n-instances="80785" data-bytes="161570" meta-bytes="4450" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_VENDOR" type="set" arena-id="0" n-values="23441"
+      n-instances="1000915" data-bytes="2688063" meta-bytes="1152786" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_BY_NOTES_ID" type="set" arena-id="0"
+      n-values="77" n-instances="2442794" data-bytes="4885588" meta-bytes="4364"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SERVICE" type="set" arena-id="0" n-values="100"
+      n-instances="315188" data-bytes="630376" meta-bytes="5352" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OWNER_NOTES_ID" type="set" arena-id="0"
+      n-values="41071" n-instances="573173" data-bytes="1869997" meta-bytes="2106511"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="LOB" type="set" arena-id="0" n-values="32"
+      n-instances="270656" data-bytes="541312" meta-bytes="1084" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="-1" n-values="2"
+      n-instances="0" data-bytes="0" meta-bytes="67" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="0" n-values="6"
+      n-instances="7939194" data-bytes="15878388" meta-bytes="201" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="-1"
+      n-values="22" n-instances="0" data-bytes="0" meta-bytes="1778" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="0"
+      n-values="28" n-instances="7456697" data-bytes="14913394" meta-bytes="2240"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="EMAIL_RECIPIENT_FACET" type="set" arena-id="0"
+      n-values="981" n-instances="7938474" data-bytes="15879020" meta-bytes="51049"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="PLAN_REQUIRED" type="set" arena-id="0" n-values="15"
+      n-instances="7938474" data-bytes="15876948" meta-bytes="741" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REASON_PLAN_NOT_REQUIRED_FACET" type="set"
+      arena-id="0" n-values="29" n-instances="7938474" data-bytes="15876948"
+      meta-bytes="1597" state="transient" indexed="indexed"
+    />
+    <value-set-field name="STAFFING_PLAN_REQUESTED_BY_NOTES_ID_FACET" type="set"
+      arena-id="0" n-values="41" n-instances="1347" data-bytes="2694" meta-bytes="2329"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="0"
+      n-instances="2621164" data-bytes="23590476" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD_FACET" type="set" arena-id="0"
+      n-values="8" n-instances="2618562" data-bytes="5237124" meta-bytes="288"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+  </reconstructor-statuses>
+  <reconstructor-statuses ms="576616" n-pending="0" priority="0">
+    <reconstructor-status n-to-do="24" n-done="24" start="1506632746"
+      end="1506632746"
+    />
+    <reconstructor-status n-to-do="24" n-done="24" start="1506632265"
+      end="1506632265"
+    />
+    <reconstructor-status n-to-do="0" n-done="0" start="1506632232"
+      end="1506632232"
+    />
+    <reconstructor-status n-to-do="9" n-done="9" start="1506632227"
+      end="1506632227"
+    />
+    <reconstructor-status n-to-do="24" n-done="24" start="1506632219"
+      end="1506632219"
+    />
+    <value-set-field name="CRM_WIN_ODDS_FACET" type="set" arena-id="0"
+      n-values="6" n-instances="2646160" data-bytes="5292320" meta-bytes="192"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_TYPE" type="set" arena-id="0" n-values="3"
+      n-instances="2646401" data-bytes="5292802" meta-bytes="89" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_SECTOR" type="set" arena-id="0" n-values="7"
+      n-instances="1029988" data-bytes="2059976" meta-bytes="263" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="6286573" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_CRM_ID" type="set" arena-id="0"
+      n-values="2645181" n-instances="2646401" data-bytes="11117298"
+      meta-bytes="93659229" state="transient" indexed="indexed"
+    />
+    <value-set-field name="NAME" type="set" arena-id="0" n-values="2216821"
+      n-instances="2646400" data-bytes="10553322" meta-bytes="136679124"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_TIME" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="15878406" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="INDUSTRY" type="set" arena-id="0" n-values="23"
+      n-instances="292108" data-bytes="584216" meta-bytes="948" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS_FACET" type="set" arena-id="0" n-values="6"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="192" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE_FACET" type="set" arena-id="0"
+      n-values="10" n-instances="2646161" data-bytes="5292322" meta-bytes="496"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SECTOR" type="set" arena-id="0" n-values="8"
+      n-instances="2646378" data-bytes="5292756" meta-bytes="291" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_RDMAP_STAT_DESC" type="set" arena-id="0"
+      n-values="7" n-instances="2646161" data-bytes="5292322" meta-bytes="225"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_ID" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="13121210" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="6054776" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IOT" type="set" arena-id="0" n-values="7"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="246" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IMT" type="set" arena-id="0" n-values="28"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="958" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="COUNTRY" type="set" arena-id="0" n-values="206"
+      n-instances="1046626" data-bytes="2095570" meta-bytes="6866" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CLIENT_NAME" type="set" arena-id="0" n-values="264038"
+      n-instances="1046449" data-bytes="3749819" meta-bytes="12422488"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="CRM_INDUSTRY" type="set" arena-id="0" n-values="22"
+      n-instances="868087" data-bytes="1736174" meta-bytes="920" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="-1"
+      n-values="12" n-instances="0" data-bytes="0" meta-bytes="592" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="0"
+      n-values="12" n-instances="2646161" data-bytes="5292322" meta-bytes="592"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="0"
+      n-instances="1000996" data-bytes="6005977" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="VENDOR" type="set" arena-id="0" n-values="113"
+      n-instances="80785" data-bytes="161570" meta-bytes="4450" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_VENDOR" type="set" arena-id="0" n-values="23441"
+      n-instances="1000915" data-bytes="2688063" meta-bytes="1152786" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_BY_NOTES_ID" type="set" arena-id="0"
+      n-values="77" n-instances="2442794" data-bytes="4885588" meta-bytes="4364"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SERVICE" type="set" arena-id="0" n-values="100"
+      n-instances="315188" data-bytes="630376" meta-bytes="5352" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OWNER_NOTES_ID" type="set" arena-id="0"
+      n-values="41071" n-instances="573173" data-bytes="1869997" meta-bytes="2106511"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="LOB" type="set" arena-id="0" n-values="32"
+      n-instances="270656" data-bytes="541312" meta-bytes="1084" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="-1" n-values="2"
+      n-instances="0" data-bytes="0" meta-bytes="67" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="0" n-values="6"
+      n-instances="7939194" data-bytes="15878388" meta-bytes="201" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="-1"
+      n-values="22" n-instances="0" data-bytes="0" meta-bytes="1778" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="0"
+      n-values="28" n-instances="7456697" data-bytes="14913394" meta-bytes="2240"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="EMAIL_RECIPIENT_FACET" type="set" arena-id="0"
+      n-values="981" n-instances="7938474" data-bytes="15879020" meta-bytes="51049"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="PLAN_REQUIRED" type="set" arena-id="0" n-values="15"
+      n-instances="7938474" data-bytes="15876948" meta-bytes="741" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REASON_PLAN_NOT_REQUIRED_FACET" type="set"
+      arena-id="0" n-values="29" n-instances="7938474" data-bytes="15876948"
+      meta-bytes="1597" state="transient" indexed="indexed"
+    />
+    <value-set-field name="STAFFING_PLAN_REQUESTED_BY_NOTES_ID_FACET" type="set"
+      arena-id="0" n-values="41" n-instances="1347" data-bytes="2694" meta-bytes="2329"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="0"
+      n-instances="2621164" data-bytes="23590476" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD_FACET" type="set" arena-id="0"
+      n-values="8" n-instances="2618562" data-bytes="5237124" meta-bytes="288"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+  </reconstructor-statuses>
+  <reconstructor-statuses ms="564695" n-pending="0" priority="0">
+    <reconstructor-status n-to-do="26" n-done="26" start="1506633592"
+      end="1506633592"
+    />
+    <reconstructor-status n-to-do="24" n-done="24" start="1506632265"
+      end="1506632265"
+    />
+    <reconstructor-status n-to-do="18" n-done="18" start="1506632232"
+      end="1506632232"
+    />
+    <reconstructor-status n-to-do="11" n-done="11" start="1506632223"
+      end="1506632223"
+    />
+    <reconstructor-status n-to-do="18" n-done="18" start="1506631863"
+      end="1506631863"
+    />
+    <value-set-field name="CRM_WIN_ODDS_FACET" type="set" arena-id="0"
+      n-values="6" n-instances="2646160" data-bytes="5292320" meta-bytes="192"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_TYPE" type="set" arena-id="0" n-values="3"
+      n-instances="2646401" data-bytes="5292802" meta-bytes="89" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_SECTOR" type="set" arena-id="0" n-values="7"
+      n-instances="1029988" data-bytes="2059976" meta-bytes="263" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="6286573" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_CRM_ID" type="set" arena-id="0"
+      n-values="2645181" n-instances="2646401" data-bytes="11117298"
+      meta-bytes="93659229" state="transient" indexed="indexed"
+    />
+    <value-set-field name="NAME" type="set" arena-id="0" n-values="2216821"
+      n-instances="2646400" data-bytes="10553322" meta-bytes="136679124"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_TIME" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="15878406" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="INDUSTRY" type="set" arena-id="0" n-values="23"
+      n-instances="292108" data-bytes="584216" meta-bytes="948" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS_FACET" type="set" arena-id="0" n-values="6"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="192" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE_FACET" type="set" arena-id="0"
+      n-values="10" n-instances="2646161" data-bytes="5292322" meta-bytes="496"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SECTOR" type="set" arena-id="0" n-values="8"
+      n-instances="2646378" data-bytes="5292756" meta-bytes="291" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_RDMAP_STAT_DESC" type="set" arena-id="0"
+      n-values="7" n-instances="2646161" data-bytes="5292322" meta-bytes="225"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_ID" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="13121210" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="6054776" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IOT" type="set" arena-id="0" n-values="7"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="246" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IMT" type="set" arena-id="0" n-values="28"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="958" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="COUNTRY" type="set" arena-id="0" n-values="206"
+      n-instances="1046626" data-bytes="2095570" meta-bytes="6866" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CLIENT_NAME" type="set" arena-id="0" n-values="264038"
+      n-instances="1046449" data-bytes="3749819" meta-bytes="12422488"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="CRM_INDUSTRY" type="set" arena-id="0" n-values="22"
+      n-instances="868087" data-bytes="1736174" meta-bytes="920" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="-1"
+      n-values="12" n-instances="0" data-bytes="0" meta-bytes="592" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="0"
+      n-values="12" n-instances="2646161" data-bytes="5292322" meta-bytes="592"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="0"
+      n-instances="1000996" data-bytes="6005977" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="VENDOR" type="set" arena-id="0" n-values="113"
+      n-instances="80785" data-bytes="161570" meta-bytes="4450" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_VENDOR" type="set" arena-id="0" n-values="23441"
+      n-instances="1000915" data-bytes="2688063" meta-bytes="1152786" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_BY_NOTES_ID" type="set" arena-id="0"
+      n-values="77" n-instances="2442794" data-bytes="4885588" meta-bytes="4364"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SERVICE" type="set" arena-id="0" n-values="100"
+      n-instances="315188" data-bytes="630376" meta-bytes="5352" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OWNER_NOTES_ID" type="set" arena-id="0"
+      n-values="41071" n-instances="573173" data-bytes="1869997" meta-bytes="2106511"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="LOB" type="set" arena-id="0" n-values="32"
+      n-instances="270656" data-bytes="541312" meta-bytes="1084" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="-1" n-values="2"
+      n-instances="0" data-bytes="0" meta-bytes="67" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="0" n-values="6"
+      n-instances="7939194" data-bytes="15878388" meta-bytes="201" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="-1"
+      n-values="22" n-instances="0" data-bytes="0" meta-bytes="1778" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="0"
+      n-values="28" n-instances="7456697" data-bytes="14913394" meta-bytes="2240"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="EMAIL_RECIPIENT_FACET" type="set" arena-id="0"
+      n-values="981" n-instances="7938474" data-bytes="15879020" meta-bytes="51049"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="PLAN_REQUIRED" type="set" arena-id="0" n-values="15"
+      n-instances="7938474" data-bytes="15876948" meta-bytes="741" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REASON_PLAN_NOT_REQUIRED_FACET" type="set"
+      arena-id="0" n-values="29" n-instances="7938474" data-bytes="15876948"
+      meta-bytes="1597" state="transient" indexed="indexed"
+    />
+    <value-set-field name="STAFFING_PLAN_REQUESTED_BY_NOTES_ID_FACET" type="set"
+      arena-id="0" n-values="41" n-instances="1347" data-bytes="2694" meta-bytes="2329"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="0"
+      n-instances="2621164" data-bytes="23590476" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD_FACET" type="set" arena-id="0"
+      n-values="8" n-instances="2618562" data-bytes="5237124" meta-bytes="288"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+  </reconstructor-statuses>
+  <reconstructor-statuses ms="624420" n-pending="0" priority="0">
+    <reconstructor-status n-to-do="21" n-done="21" start="1506641789"
+      end="1506641789"
+    />
+    <reconstructor-status n-to-do="27" n-done="27" start="1506632300"
+      end="1506632300"
+    />
+    <reconstructor-status n-to-do="6" n-done="6" start="1506632233"
+      end="1506632233"
+    />
+    <reconstructor-status n-to-do="27" n-done="27" start="1506632227"
+      end="1506632227"
+    />
+    <reconstructor-status n-to-do="5" n-done="5" start="1506632219"
+      end="1506632219"
+    />
+    <value-set-field name="CRM_WIN_ODDS_FACET" type="set" arena-id="0"
+      n-values="6" n-instances="2646160" data-bytes="5292320" meta-bytes="192"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_TYPE" type="set" arena-id="0" n-values="3"
+      n-instances="2646401" data-bytes="5292802" meta-bytes="89" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_SECTOR" type="set" arena-id="0" n-values="7"
+      n-instances="1029988" data-bytes="2059976" meta-bytes="263" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="6286573" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_CRM_ID" type="set" arena-id="0"
+      n-values="2645181" n-instances="2646401" data-bytes="11117298"
+      meta-bytes="93659229" state="transient" indexed="indexed"
+    />
+    <value-set-field name="NAME" type="set" arena-id="0" n-values="2216821"
+      n-instances="2646400" data-bytes="10553322" meta-bytes="136679124"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_TIME" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="15878406" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="INDUSTRY" type="set" arena-id="0" n-values="23"
+      n-instances="292108" data-bytes="584216" meta-bytes="948" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="WIN_ODDS_FACET" type="set" arena-id="0" n-values="6"
+      n-instances="2646161" data-bytes="5292322" meta-bytes="192" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="SALES_STAGE_FACET" type="set" arena-id="0"
+      n-values="10" n-instances="2646161" data-bytes="5292322" meta-bytes="496"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SECTOR" type="set" arena-id="0" n-values="8"
+      n-instances="2646378" data-bytes="5292756" meta-bytes="291" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_RDMAP_STAT_DESC" type="set" arena-id="0"
+      n-values="7" n-instances="2646161" data-bytes="5292322" meta-bytes="225"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="OPPORTUNITY_ID" type="int" arena-id="0"
+      n-instances="2646401" data-bytes="13121210" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_WIN_ODDS" type="int" arena-id="0"
+      n-instances="2646161" data-bytes="6054776" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IOT" type="set" arena-id="0" n-values="7"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="246" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="IMT" type="set" arena-id="0" n-values="28"
+      n-instances="1046680" data-bytes="2093360" meta-bytes="958" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="COUNTRY" type="set" arena-id="0" n-values="206"
+      n-instances="1046626" data-bytes="2095570" meta-bytes="6866" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CLIENT_NAME" type="set" arena-id="0" n-values="264038"
+      n-instances="1046449" data-bytes="3749819" meta-bytes="12422488"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="CRM_INDUSTRY" type="set" arena-id="0" n-values="22"
+      n-instances="868087" data-bytes="1736174" meta-bytes="920" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="-1"
+      n-values="12" n-instances="0" data-bytes="0" meta-bytes="592" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE_FACET" type="set" arena-id="0"
+      n-values="12" n-instances="2646161" data-bytes="5292322" meta-bytes="592"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="0"
+      n-instances="1000996" data-bytes="6005977" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="VENDOR" type="set" arena-id="0" n-values="113"
+      n-instances="80785" data-bytes="161570" meta-bytes="4450" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="CRM_VENDOR" type="set" arena-id="0" n-values="23441"
+      n-instances="1000915" data-bytes="2688063" meta-bytes="1152786" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="LAST_MODIFIED_BY_NOTES_ID" type="set" arena-id="0"
+      n-values="77" n-instances="2442794" data-bytes="4885588" meta-bytes="4364"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="SERVICE" type="set" arena-id="0" n-values="100"
+      n-instances="315188" data-bytes="630376" meta-bytes="5352" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="OWNER_NOTES_ID" type="set" arena-id="0"
+      n-values="41071" n-instances="573173" data-bytes="1869997" meta-bytes="2106511"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="LOB" type="set" arena-id="0" n-values="32"
+      n-instances="270656" data-bytes="541312" meta-bytes="1084" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="-1" n-values="2"
+      n-instances="0" data-bytes="0" meta-bytes="67" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="PLAN_CREATED" type="set" arena-id="0" n-values="6"
+      n-instances="7939194" data-bytes="15878388" meta-bytes="201" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="-1"
+      n-values="22" n-instances="0" data-bytes="0" meta-bytes="1778" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="ADMINISTRATOR_THRESHOLD" type="set" arena-id="0"
+      n-values="28" n-instances="7456697" data-bytes="14913394" meta-bytes="2240"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="EMAIL_RECIPIENT_FACET" type="set" arena-id="0"
+      n-values="981" n-instances="7938474" data-bytes="15879020" meta-bytes="51049"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="PLAN_REQUIRED" type="set" arena-id="0" n-values="15"
+      n-instances="7938474" data-bytes="15876948" meta-bytes="741" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REASON_PLAN_NOT_REQUIRED_FACET" type="set"
+      arena-id="0" n-values="29" n-instances="7938474" data-bytes="15876948"
+      meta-bytes="1597" state="transient" indexed="indexed"
+    />
+    <value-set-field name="STAFFING_PLAN_REQUESTED_BY_NOTES_ID_FACET" type="set"
+      arena-id="0" n-values="41" n-instances="1347" data-bytes="2694" meta-bytes="2329"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD" type="double" arena-id="0"
+      n-instances="2621164" data-bytes="23590476" meta-bytes="0" state="transient"
+      indexed="indexed"
+    />
+    <value-set-field name="REVENUE_USD_FACET" type="set" arena-id="0"
+      n-values="8" n-instances="2618562" data-bytes="5237124" meta-bytes="288"
+      state="transient" indexed="indexed"
+    />
+    <value-set-field name="DECISION_DATE" type="int" arena-id="-1"
+      n-instances="0" data-bytes="0" meta-bytes="0" state="transient" indexed="indexed"
+    />
+  </reconstructor-statuses>
+  <la-scores-statuses />
+  <vse-index-streams>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="2"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1"
+    >
+      <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="japanese-indexing"
+      segmenter="japanese" id="3" delanguage="true" wildcard-stem="case"
+      wildcard-delanguage="true" segmenter-version="2"
+    >
+      <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="4"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" arena="PMP_Opportunity_Entity_Type" arena-id="0"
+    >
+      <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="japanese-indexing"
+      segmenter="japanese" id="5" delanguage="true" wildcard-stem="case"
+      wildcard-delanguage="true" segmenter-version="2"
+      arena="PMP_Opportunity_Entity_Type" arena-id="0"
+    >
+      <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="6"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="7"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="1"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="8"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="2"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="9"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="3" fast-index-base="10"
+      fast-index-high="2" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="10"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="4"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="11"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="5"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="12"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="6" fast-index-base="10"
+      fast-index-high="1" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="13"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="7" fast-index-base="10"
+      fast-index-high="9" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="14"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="8"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="15"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="9"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="16"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="10"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="17"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="11"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="18"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="12"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="19"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="13" fast-index-base="10"
+      fast-index-high="7" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="20"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="14" fast-index-base="10"
+      fast-index-high="2" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="21"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="15"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="22"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="16"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="23"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="17"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="24"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="18"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="25"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="19"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="26"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="21"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="27"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="22" fast-index-base="10"
+      fast-index-high="9" fast-index-low="0" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="28"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="23"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="29"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="24"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="30"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="25"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="31"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="26"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="32"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="27"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="33"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="28"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="34"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="30"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="35"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="32"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="36"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="33"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="37"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="34"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="38"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="35"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="39"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="36"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="40"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="38" fast-index-base="10"
+      fast-index-high="9" fast-index-low="-5" fast-index-min-exponent="0"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+    <vse-index-stream stem="depluralize" kb="none" segmenter="none" id="41"
+      delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+      segmenter-version="1" fast-index-field="39"
+    >
+      <vse-tokenizer name="simple" version="2" />
+    </vse-index-stream>
+  </vse-index-streams>
+  <term-expand-dicts-status>
+    <term-expand-dict-status
+      filename="expansions/57025452aa27cc56a089c37dbe3377d0" n-words="6158716"
+      n-bytes="92274688"
+    >
+      <vse-index-stream stem="depluralize" kb="none" segmenter="none"
+        delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+        segmenter-version="1" arena="PMP_Opportunity_Entity_Type"
+      >
+        <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+      </vse-index-stream>
+    </term-expand-dict-status>
+    <term-expand-dict-status
+      filename="expansions/935ba78f3de4f09b9c80c2461d39b33b" n-words="4210322"
+      n-bytes="67108864"
+    >
+      <vse-index-stream stem="depluralize" kb="none" segmenter="japanese"
+        delanguage="true" wildcard-stem="case" wildcard-delanguage="true"
+        segmenter-version="2" arena="PMP_Opportunity_Entity_Type"
+      >
+        <vse-tokenizer name="simple" word-chars="+@#&amp;" version="2" />
+      </vse-index-stream>
+    </term-expand-dict-status>
+  </term-expand-dicts-status>
+  <vse-index-builder-status elapsed="2298.67" n-urls="0" n-segments="0"
+    ms="75099"
+  />
+  <vse-index-builder-status elapsed="2298.67" n-urls="0" n-segments="0"
+    ms="74855"
+  />
+</vse-index-status>
+</vse-status>

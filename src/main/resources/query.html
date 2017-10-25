@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="referrer" content="no-referrer">
+<title>IBM Watson Explorer Query Tool</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+  <style>
+    .toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; }
+    #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+    .ui-effects-transfer { border: 2px dotted gray; }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script>
+	$(function() {
+		$("#env").selectmenu();
+	});
+</script>
+<script>
+	$(document).ready(function() {
+		$('[data-toggle="tooltip"]').tooltip();
+	});
+</script>
+</head>
+<body>
+<table><tr>
+<td><img src="watson_logo_75.png" alt="Watson Logo"></td>
+<td><h3>IBM Watson Explorer Query Tool</h3>Easily query Watson Explorer(WEX) data with <a href="#" onclick="window.open('./help.html', 'wqlhelp', 'width=400,height=200,scrollbars=yes');"> WQL</a>. For support or questions contact: <a href="mailto:julianom@br.ibm.com">Juliano Martins</a></td>
+</tr></table>
+<hr>
+	<form name="queryToHtml" action="queryToHtml" method="post" enctype="application/x-www-form-urlencoded">
+	<label>Environment: </label>
+<select id="env" name="env">
+		<option value="dev"  %selected-dev%>Development</option>
+		<option value="systest"   %selected-systest%>SysTest</option>
+		<option value="prodval"   %selected-prodval%>ProdVal</option>
+		<option value="prod"  %selected-prod%>Production</option>
+		<option value="sbox"  %selected-sbox%>SandBox</option>
+</select>
+	<input type="submit" value="Submit Query" class="btn btn-primary">
+	<input name = "nlq" type="checkbox" value="nlq" %nlq%><label><a href="#" onclick="window.open('./nlq.html', 'nlqhelp', 'width=400,height=200,scrollbars=yes');" title="Perform a Natural Language Query, using query-modificator. Click to get more help." data-toggle="tooltip">NLQ</a></label>
+	<input name = "ontolection" type="checkbox" value="ontolection" %ontolection%><label title="Use synonyms." data-toggle="tooltip">Ontolection</label>
+	<input name = "stemming" type="checkbox" value="stemming" %stemming%> <label title="If will Stemming." data-toggle="tooltip">Stemming</label>
+	<input name = "spelling" type="checkbox" value="spelling" %spelling%> <label title="If will Spelling." data-toggle="tooltip">Spelling</label>
+	<input name = "genjson" type="checkbox" value="genjson" %genjson%><label title="Generate the results in JSon format. To be used from another aplications." data-toggle="tooltip">Generate Json </label>
+		<table class="table-condensed">
+			<tr>
+				<td>Query: <br><font size="1"><a href="/history.html" title="Show query history." data-toggle="tooltip">(history)</a></font></td>
+				<td><textarea class="form-control" style="font-size:12px;" NAME="wql" rows="6" cols="120" wrap="soft">%wql%</textarea></td>
+			</tr>
+			<tr>
+			<td colspan="2"><font color="red">%message%</font></td>
+			</tr>
+		</table>
+	</form>
+	%response%
+	<hr>
+	%restfulRequests%
+	<hr>
+<label>Help: </label><a href="#" onclick="window.open('./help.html', 'wqlhelp', 'width=400,height=200,scrollbars=yes');"> WQL</a>
+	- <a href="#" onclick="window.open('./nlq.html', 'nlqhelp', 'width=400,height=200,scrollbars=yes');">Natural Language Query</a>
+	- <a href="/history.html">Query Histroy</a>
+</body>
+</html>

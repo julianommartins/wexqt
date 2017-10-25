@@ -1,0 +1,46 @@
+PMP_Opportunity.WIN_ODDS_FACET:
+
+	( $WIN_ODDS >=   0 and $WIN_ODDS <  10 ) | "0 - 9%"
+	( $WIN_ODDS >=  10 and $WIN_ODDS <  25 ) | "10 - 24%"
+	( $WIN_ODDS >=  25 and $WIN_ODDS <  50 ) | "25 - 49%"
+	( $WIN_ODDS >=  50 and $WIN_ODDS <  75 ) | "50 - 74%"
+	( $WIN_ODDS >=  75 and $WIN_ODDS < 100 ) | "75 - 99%"
+	( $WIN_ODDS == 100                   )  | "100%"
+
+
+PMP_Opportunity.REVENUE_USD_FACET:
+
+     ( $REVENUE_USD >=            0.00 and $REVENUE_USD <=        100000.00 ) | "0 - 100 K"
+     ( $REVENUE_USD >=       100000.00 and $REVENUE_USD <=        500000.00 ) | "100 K - 500 K"
+     ( $REVENUE_USD >=       500000.00 and $REVENUE_USD <=       1000000.00 ) | "500 K - 1 M"
+     ( $REVENUE_USD >=      1000000.00 and $REVENUE_USD <=       5000000.00 ) | "1 M - 5 M"
+     ( $REVENUE_USD >=      5000000.00 and $REVENUE_USD <=      10000000.00 ) | "5 M - 10 M"
+     ( $REVENUE_USD >=     10000000.00 and $REVENUE_USD <=     100000000.00 ) | "10 M - 100 M"
+     ( $REVENUE_USD >=    100000000.00 and $REVENUE_USD <=   10000000000.00 ) | "100 M - 10 B"
+     ( $REVENUE_USD >=  10000000000.00 and $REVENUE_USD <=  100000000000.00 ) | "10 B - 100 B"
+
+PMP_Opportunity.CRM_WIN_ODDS_FACET:
+
+	( $CRM_WIN_ODDS >=   0 and $CRM_WIN_ODDS <  10 ) | "0 - 9%"
+	( $CRM_WIN_ODDS >=  10 and $CRM_WIN_ODDS <  25 ) | "10 - 24%"
+	( $CRM_WIN_ODDS >=  25 and $CRM_WIN_ODDS <  50 ) | "25 - 49%"
+	( $CRM_WIN_ODDS >=  50 and $CRM_WIN_ODDS <  75 ) | "50 - 74%"
+	( $CRM_WIN_ODDS >=  75 and $CRM_WIN_ODDS < 100 ) | "75 - 99%"
+	( $CRM_WIN_ODDS == 100                        ) | "100%"
+	
+PMP_Opportunity.DECISION_DATE_FACET:
+  
+  call com.ibm.services.tools.marketplace.dataexplorer.transformers.DecisionDateFacetTransformer()
+     
+  ( $DECISION_DATE >  {FROM_TODAY_12_MONTHS_IN_FUTURE} ) | "> 12 months in the future"
+  ( $DECISION_DATE >= {FROM_TODAY_9_MONTHS_IN_FUTURE}  ) | "9 - 12 months in the future"
+  ( $DECISION_DATE >= {FROM_TODAY_6_MONTHS_IN_FUTURE}  ) | "6 - 9 months in the future"
+  ( $DECISION_DATE >= {FROM_TODAY_3_MONTHS_IN_FUTURE}  ) | "3 - 6 months in the future"
+  ( $DECISION_DATE <  {FROM_TODAY_3_MONTHS_IN_FUTURE}  ) | "0 - 3 months in the future"
+			 
+  ( $DECISION_DATE <  {FROM_TODAY_18_MONTHS_IN_PAST}   ) | "> 18 months in the past"
+  ( $DECISION_DATE <= {FROM_TODAY_12_MONTHS_IN_PAST}   ) | "12 - 18 months in the past"
+  ( $DECISION_DATE >= {FROM_TODAY_9_MONTHS_IN_PAST}    ) | "9 - 12 months in the past"
+  ( $DECISION_DATE >= {FROM_TODAY_6_MONTHS_IN_PAST}    ) | "6 - 9 months in the past"
+  ( $DECISION_DATE >= {FROM_TODAY_3_MONTHS_IN_PAST}    ) | "3 - 6 months in the past"
+  ( $DECISION_DATE <  {FROM_TODAY_3_MONTHS_IN_PAST}    ) | "0 - 3 months in the past" 

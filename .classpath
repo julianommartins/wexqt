@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/julianom/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/generate-practicioner-id.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/db2jcc.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/velocity-tools-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/quartz-jobs-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/quartz-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/jackson-databind-2.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/jackson-core-2.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-test-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/cwa.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-webmvc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-web-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-tx-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-jdbc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-expression-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-core-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-context-support-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-context-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/log4j-web-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/j2ee-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/hibernate-validator-5.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/commons-email-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/julianom/workspacePMPEc/MySASharedLibraries/MySASharedLibraries/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

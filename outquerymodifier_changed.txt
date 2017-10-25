@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<query-results>
+<binning>
+  <binning-set bs-id="ALL_JRSS_FACET">
+    <bin state="ALL_JRSS_FACET==Application Developer - Java.Core"
+      label="Application Developer - Java.Core" ndocs="3054" cndocs="3054"
+    />
+    <bin
+      state="ALL_JRSS_FACET==Fin &amp;amp;amp; Admin Business Analyst - Finance &amp;amp;amp; Accounting"
+      label="Fin &amp;amp;amp; Admin Business Analyst - Finance &amp;amp;amp; Accounting"
+      ndocs="1202" cndocs="4256"
+    />
+    <bin
+      state="ALL_JRSS_FACET==Project Manager - Application Maintenance &amp;amp;amp; Support"
+      label="Project Manager - Application Maintenance &amp;amp;amp; Support"
+      ndocs="992" cndocs="5248"
+    />
+    <bin state="ALL_JRSS_FACET==Application Developer - Cloud.Java"
+      label="Application Developer - Cloud.Java" ndocs="960" cndocs="6208"
+    />
+    <bin state="ALL_JRSS_FACET==Application Developer - SQL"
+      label="Application Developer - SQL" ndocs="934" cndocs="7142"
+    />
+    <bin state="ALL_JRSS_FACET==Business Analyst - Technical Requirements"
+      label="Business Analyst - Technical Requirements" ndocs="855" cndocs="7997"
+    />
+    <bin state="ALL_JRSS_FACET==Application Developer - Java.Spring"
+      label="Application Developer - Java.Spring" ndocs="828" cndocs="8825"
+    />
+    <bin state="ALL_JRSS_FACET==Test Specialist - Custom Applications"
+      label="Test Specialist - Custom Applications" ndocs="811" cndocs="9636"
+    />
+  </binning-set>
+  <binning-set bs-id="CERTIFICATION_FACET">
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Actualizing IT Solutions>3"
+      label="IBM global profession>IBM>Actualizing IT Solutions>3" ndocs="597"
+      cndocs="597"
+    />
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Managing Projects and Programs>4"
+      label="IBM global profession>IBM>Managing Projects and Programs>4" ndocs="281"
+      cndocs="878"
+    />
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Defining Architectures>4"
+      label="IBM global profession>IBM>Defining Architectures>4" ndocs="174"
+      cndocs="1052"
+    />
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Actualizing IT Solutions>4"
+      label="IBM global profession>IBM>Actualizing IT Solutions>4" ndocs="122"
+      cndocs="1174"
+    />
+    <bin
+      state="CERTIFICATION_FACET==External product and solution>Scrum Alliance>Certified ScrumMasters (CSM)"
+      label="External product and solution>Scrum Alliance>Certified ScrumMasters (CSM)"
+      ndocs="99" cndocs="1273"
+    />
+    <bin
+      state="CERTIFICATION_FACET==External product and solution>Project Management Institute>Project Management Professional (PMP)"
+      label="External product and solution>Project Management Institute>Project Management Professional (PMP)"
+      ndocs="81" cndocs="1354"
+    />
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Managing Projects and Programs>3"
+      label="IBM global profession>IBM>Managing Projects and Programs>3" ndocs="73"
+      cndocs="1427"
+    />
+    <bin
+      state="CERTIFICATION_FACET==IBM global profession>IBM>Managing Projects and Programs>5"
+      label="IBM global profession>IBM>Managing Projects and Programs>5" ndocs="51"
+      cndocs="1478"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_AM_ONSHORE_FACET">
+    <bin state="COST_RATE_AM_ONSHORE_FACET==43.67" label="43.67" ndocs="2908"
+      cndocs="2908"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==51.4" label="51.4" ndocs="644"
+      cndocs="3552"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==28.35" label="28.35" ndocs="151"
+      cndocs="3703"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==13.4" label="13.4" ndocs="119"
+      cndocs="3822"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==14.87" label="14.87" ndocs="113"
+      cndocs="3935"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==38.7" label="38.7" ndocs="91"
+      cndocs="4026"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==17.38" label="17.38" ndocs="73"
+      cndocs="4099"
+    />
+    <bin state="COST_RATE_AM_ONSHORE_FACET==14.25" label="14.25" ndocs="37"
+      cndocs="4136"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_NONAM_ONSHORE_FACET">
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==11.3" label="11.3" ndocs="2908"
+      cndocs="2908"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==18.24" label="18.24" ndocs="644"
+      cndocs="3552"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==28.35" label="28.35" ndocs="151"
+      cndocs="3703"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==13.4" label="13.4" ndocs="119"
+      cndocs="3822"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==14.87" label="14.87" ndocs="113"
+      cndocs="3935"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==38.7" label="38.7" ndocs="91"
+      cndocs="4026"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==17.38" label="17.38" ndocs="73"
+      cndocs="4099"
+    />
+    <bin state="COST_RATE_NONAM_ONSHORE_FACET==14.25" label="14.25" ndocs="37"
+      cndocs="4136"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_OFFSHORE_FACET">
+    <bin state="COST_RATE_OFFSHORE_FACET==14.23" label="14.23" ndocs="2908"
+      cndocs="2908"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==7.2" label="7.2" ndocs="1656"
+      cndocs="4564"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==21.26" label="21.26" ndocs="644"
+      cndocs="5208"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==31.2" label="31.2" ndocs="151"
+      cndocs="5359"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==13.4" label="13.4" ndocs="119"
+      cndocs="5478"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==28.39" label="28.39" ndocs="115"
+      cndocs="5593"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==14.87" label="14.87" ndocs="113"
+      cndocs="5706"
+    />
+    <bin state="COST_RATE_OFFSHORE_FACET==17.38" label="17.38" ndocs="73"
+      cndocs="5779"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_OTHER_FACET">
+    <bin state="COST_RATE_OTHER_FACET==109.52" label="109.52" ndocs="145"
+      cndocs="145"
+    />
+    <bin state="COST_RATE_OTHER_FACET==141.65" label="141.65" ndocs="132"
+      cndocs="277"
+    />
+    <bin state="COST_RATE_OTHER_FACET==23.24" label="23.24" ndocs="111"
+      cndocs="388"
+    />
+    <bin state="COST_RATE_OTHER_FACET==29.75" label="29.75" ndocs="90"
+      cndocs="478"
+    />
+    <bin state="COST_RATE_OTHER_FACET==25.03" label="25.03" ndocs="85"
+      cndocs="563"
+    />
+    <bin state="COST_RATE_OTHER_FACET==22.8" label="22.8" ndocs="71" cndocs="634" />
+    <bin state="COST_RATE_OTHER_FACET==21.01" label="21.01" ndocs="69"
+      cndocs="703"
+    />
+    <bin state="COST_RATE_OTHER_FACET==22.69" label="22.69" ndocs="59"
+      cndocs="762"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_US_FD_FACET">
+    <bin state="COST_RATE_US_FD_FACET==90.4" label="90.4" ndocs="13" cndocs="13" />
+    <bin state="COST_RATE_US_FD_FACET==71.85" label="71.85" ndocs="11"
+      cndocs="24"
+    />
+    <bin state="COST_RATE_US_FD_FACET==98.41" label="98.41" ndocs="10"
+      cndocs="34"
+    />
+    <bin state="COST_RATE_US_FD_FACET==110.78" label="110.78" ndocs="8"
+      cndocs="42"
+    />
+    <bin state="COST_RATE_US_FD_FACET==120.54" label="120.54" ndocs="8"
+      cndocs="50"
+    />
+    <bin state="COST_RATE_US_FD_FACET==121.72" label="121.72" ndocs="8"
+      cndocs="58"
+    />
+    <bin state="COST_RATE_US_FD_FACET==50.54" label="50.54" ndocs="8" cndocs="66" />
+    <bin state="COST_RATE_US_FD_FACET==80.9" label="80.9" ndocs="8" cndocs="74" />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_US_NP_FACET">
+    <bin state="COST_RATE_US_NP_FACET==120.14" label="120.14" ndocs="21"
+      cndocs="21"
+    />
+    <bin state="COST_RATE_US_NP_FACET==110.35" label="110.35" ndocs="17"
+      cndocs="38"
+    />
+    <bin state="COST_RATE_US_NP_FACET==116.35" label="116.35" ndocs="14"
+      cndocs="52"
+    />
+    <bin state="COST_RATE_US_NP_FACET==137.68" label="137.68" ndocs="13"
+      cndocs="65"
+    />
+    <bin state="COST_RATE_US_NP_FACET==64.78" label="64.78" ndocs="13"
+      cndocs="78"
+    />
+    <bin state="COST_RATE_US_NP_FACET==139.03" label="139.03" ndocs="12"
+      cndocs="90"
+    />
+    <bin state="COST_RATE_US_NP_FACET==82.07" label="82.07" ndocs="12"
+      cndocs="102"
+    />
+    <bin state="COST_RATE_US_NP_FACET==120.66" label="120.66" ndocs="11"
+      cndocs="113"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_US_OD_FACET">
+    <bin state="COST_RATE_US_OD_FACET==120.14" label="120.14" ndocs="21"
+      cndocs="21"
+    />
+    <bin state="COST_RATE_US_OD_FACET==110.35" label="110.35" ndocs="17"
+      cndocs="38"
+    />
+    <bin state="COST_RATE_US_OD_FACET==116.35" label="116.35" ndocs="14"
+      cndocs="52"
+    />
+    <bin state="COST_RATE_US_OD_FACET==137.68" label="137.68" ndocs="13"
+      cndocs="65"
+    />
+    <bin state="COST_RATE_US_OD_FACET==64.78" label="64.78" ndocs="13"
+      cndocs="78"
+    />
+    <bin state="COST_RATE_US_OD_FACET==139.03" label="139.03" ndocs="12"
+      cndocs="90"
+    />
+    <bin state="COST_RATE_US_OD_FACET==82.07" label="82.07" ndocs="12"
+      cndocs="102"
+    />
+    <bin state="COST_RATE_US_OD_FACET==120.66" label="120.66" ndocs="11"
+      cndocs="113"
+    />
+  </binning-set>
+  <binning-set bs-id="COST_RATE_US_PC_FACET">
+    <bin state="COST_RATE_US_PC_FACET==102.79" label="102.79" ndocs="13"
+      cndocs="13"
+    />
+    <bin state="COST_RATE_US_PC_FACET==80.67" label="80.67" ndocs="11"
+      cndocs="24"
+    />
+    <bin state="COST_RATE_US_PC_FACET==111.91" label="111.91" ndocs="10"
+      cndocs="34"
+    />
+    <bin state="COST_RATE_US_PC_FACET==108.37" label="108.37" ndocs="8"
+      cndocs="42"
+    />
+    <bin state="COST_RATE_US_PC_FACET==125.97" label="125.97" ndocs="8"
+      cndocs="50"
+    />
+    <bin state="COST_RATE_US_PC_FACET==135.33" label="135.33" ndocs="8"
+      cndocs="58"
+    />
+    <bin state="COST_RATE_US_PC_FACET==136.67" label="136.67" ndocs="8"
+      cndocs="66"
+    />
+    <bin state="COST_RATE_US_PC_FACET==58.03" label="58.03" ndocs="8" cndocs="74" />
+  </binning-set>
+  <binning-set bs-id="ISV_VENDOR_FACET">
+    <bin state="ISV_VENDOR_FACET==SAP" label="SAP" ndocs="1299" cndocs="1299" />
+    <bin state="ISV_VENDOR_FACET==Oracle" label="Oracle" ndocs="321"
+      cndocs="1620"
+    />
+    <bin state="ISV_VENDOR_FACET==Siebel" label="Siebel" ndocs="128"
+      cndocs="1748"
+    />
+    <bin state="ISV_VENDOR_FACET==PSoft" label="PSoft" ndocs="85" cndocs="1833" />
+    <bin state="ISV_VENDOR_FACET==Informatica" label="Informatica" ndocs="66"
+      cndocs="1899"
+    />
+    <bin state="ISV_VENDOR_FACET==IBM Maximo" label="IBM Maximo" ndocs="48"
+      cndocs="1947"
+    />
+    <bin state="ISV_VENDOR_FACET==MicroSoft" label="MicroSoft" ndocs="30"
+      cndocs="1977"
+    />
+    <bin state="ISV_VENDOR_FACET==Cognos" label="Cognos" ndocs="25" cndocs="2002" />
+  </binning-set>
+  <binning-set bs-id="LANGUAGE_AND_PROFICIENCY_FACET">
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==English - Fluent"
+      label="English - Fluent" ndocs="7950" cndocs="7950"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==Hindi - Fluent"
+      label="Hindi - Fluent" ndocs="2614" cndocs="10564"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==English - Very Good"
+      label="English - Very Good" ndocs="1740" cndocs="12304"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==English - Good"
+      label="English - Good" ndocs="1224" cndocs="13528"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==Chinese - Fluent"
+      label="Chinese - Fluent" ndocs="1053" cndocs="14581"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==Hindi - Very Good"
+      label="Hindi - Very Good" ndocs="866" cndocs="15447"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==Japanese - Fluent"
+      label="Japanese - Fluent" ndocs="857" cndocs="16304"
+    />
+    <bin state="LANGUAGE_AND_PROFICIENCY_FACET==Telugu - Fluent"
+      label="Telugu - Fluent" ndocs="819" cndocs="17123"
+    />
+  </binning-set>
+  <binning-set bs-id="LANGUAGE_FACET">
+    <bin state="LANGUAGE_FACET==English" label="English" ndocs="10914"
+      cndocs="10914"
+    />
+    <bin state="LANGUAGE_FACET==Hindi" label="Hindi" ndocs="3976" cndocs="14890" />
+    <bin state="LANGUAGE_FACET==German" label="German" ndocs="1220"
+      cndocs="16110"
+    />
+    <bin state="LANGUAGE_FACET==Japanese" label="Japanese" ndocs="1207"
+      cndocs="17317"
+    />
+    <bin state="LANGUAGE_FACET==French" label="French" ndocs="1147"
+      cndocs="18464"
+    />
+    <bin state="LANGUAGE_FACET==Chinese" label="Chinese" ndocs="1132"
+      cndocs="19596"
+    />
+    <bin state="LANGUAGE_FACET==Telugu" label="Telugu" ndocs="1031"
+      cndocs="20627"
+    />
+    <bin state="LANGUAGE_FACET==Tamil" label="Tamil" ndocs="930" cndocs="21557" />
+  </binning-set>
+  <binning-state />
+</binning>
+<query>
+  <operator logic="and">
+    <term field="v.condition-xpath"
+      str="($MYSA_TALENT_POOL_LOB='GBS' or $MYSA_TALENT_POOL_LOB='GTS') and $DEPLOYABILITY='Full' and ($TALENT_POOL_TYPE='IBM Regular' or $TALENT_POOL_TYPE='Affiliate') and $MYSA_PRCTNR_IND='1'"
+      input-type="system"
+    />
+    <term field="v.arena" str="PMP_Practitioner_Entity_Type"
+      processing="optional" input-type="system"
+    />
+    <term field="v.binning-configuration"
+      str="&lt;binning-set bs-id=&quot;ALL_JRSS_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ALL_JRSS_FACET&quot;/>&lt;binning-set bs-id=&quot;CERTIFICATION_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$CERTIFICATION_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_AM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_AM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_NONAM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_NONAM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OFFSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OFFSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OTHER_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OTHER_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_FD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_FD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_NP_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_NP_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_OD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_OD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_PC_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_PC_FACET&quot;/>&lt;binning-set bs-id=&quot;ISV_VENDOR_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ISV_VENDOR_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_AND_PROFICIENCY_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_AND_PROFICIENCY_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_FACET&quot;/>"
+      processing="optional" input-type="system"
+    />
+    <term field="v.output-content" str="PRACTITIONER_ID" processing="optional"
+      input-type="system"
+    />
+    <term field="v.output-content" str="FULL_NAME" processing="optional"
+      input-type="system"
+    />
+    <term field="query" str="business" processing="strict" input-type="user" />
+    <term field="query" str="analyst" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="rational" processing="strict" input-type="user" />
+    <term field="query" str="products" processing="strict" input-type="user" />
+    <term field="query" str="project" processing="strict" input-type="user" />
+    <term field="query" str="auto" processing="strict" input-type="user" />
+    <term field="query" str="industry" processing="strict" input-type="user" />
+    <term field="query" str="germany" processing="strict" input-type="user" />
+    <term field="query" str="automotive" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="plus" processing="strict" input-type="user" />
+    <term field="query" str="band" processing="strict" input-type="user" />
+    <term field="query" str="8" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="application" processing="strict" input-type="user" />
+    <term field="query" str="lifecycle" processing="strict" input-type="user" />
+    <term field="query" str="technologies" processing="strict" input-type="user" />
+    <term field="query" str="like" processing="strict" input-type="user" />
+    <term field="query" str="jenkins" processing="strict" input-type="user" />
+    <term field="query" str="spring" processing="strict" input-type="user" />
+    <term field="query" str="java" processing="strict" input-type="user" />
+    <term field="query" str="jdbc" processing="strict" input-type="user" />
+    <term field="query" str="hibernate" processing="strict" input-type="user" />
+    <term field="query" str="appium" processing="strict" input-type="user" />
+    <term field="query" str="selenium" processing="strict" input-type="user" />
+    <term field="query" str="jmeter" processing="strict" input-type="user" />
+    <term field="query" str="desired" processing="strict" input-type="user" />
+    <term field="query" str="virtual" processing="strict" input-type="user" />
+    <term field="query" str="private" processing="strict" input-type="user" />
+    <term field="query" str="network" processing="strict" input-type="user" />
+    <term field="query" str="business" processing="strict" input-type="user" />
+    <term field="query" str="analyst" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="rational" processing="strict" input-type="user" />
+    <term field="query" str="products" processing="strict" input-type="user" />
+    <term field="query" str="project" processing="strict" input-type="user" />
+    <term field="query" str="auto" processing="strict" input-type="user" />
+    <term field="query" str="industry" processing="strict" input-type="user" />
+    <term field="query" str="germany" processing="strict" input-type="user" />
+    <term field="query" str="automotive" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="plus" processing="strict" input-type="user" />
+    <term field="query" str="band" processing="strict" input-type="user" />
+    <term field="query" str="8" processing="strict" input-type="user" />
+    <term field="query" str="experience" processing="strict" input-type="user" />
+    <term field="query" str="application" processing="strict" input-type="user" />
+    <term field="query" str="lifecycle" processing="strict" input-type="user" />
+    <term field="query" str="technologies" processing="strict" input-type="user" />
+    <term field="query" str="like" processing="strict" input-type="user" />
+    <term field="query" str="jenkins" processing="strict" input-type="user" />
+    <term field="query" str="spring" processing="strict" input-type="user" />
+    <term field="query" str="java" processing="strict" input-type="user" />
+    <term field="query" str="jdbc" processing="strict" input-type="user" />
+    <term field="query" str="hibernate" processing="strict" input-type="user" />
+    <term field="query" str="appium" processing="strict" input-type="user" />
+    <term field="query" str="selenium" processing="strict" input-type="user" />
+    <term field="query" str="jmeter" processing="strict" input-type="user" />
+    <term field="query" str="desired" processing="strict" input-type="user" />
+    <term field="query" str="network" processing="strict" input-type="user" />
+  </operator>
+</query>
+<query>
+  <operator logic="and">
+    <term field="v.condition-xpath" input-type="system"
+      str="($MYSA_TALENT_POOL_LOB='GBS' or $MYSA_TALENT_POOL_LOB='GTS') and $DEPLOYABILITY='Full' and ($TALENT_POOL_TYPE='IBM Regular' or $TALENT_POOL_TYPE='Affiliate') and $MYSA_PRCTNR_IND='1'"
+    />
+    <term field="v.arena" input-type="system" processing="optional"
+      str="PMP_Practitioner_Entity_Type"
+    />
+    <term field="v.binning-configuration" input-type="system"
+      processing="optional"
+      str="&lt;binning-set bs-id=&quot;ALL_JRSS_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ALL_JRSS_FACET&quot;/>&lt;binning-set bs-id=&quot;CERTIFICATION_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$CERTIFICATION_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_AM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_AM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_NONAM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_NONAM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OFFSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OFFSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OTHER_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OTHER_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_FD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_FD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_NP_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_NP_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_OD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_OD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_PC_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_PC_FACET&quot;/>&lt;binning-set bs-id=&quot;ISV_VENDOR_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ISV_VENDOR_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_AND_PROFICIENCY_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_AND_PROFICIENCY_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_FACET&quot;/>"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="PRACTITIONER_ID"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="FULL_NAME"
+    />
+    <operator logic="or">
+      <term field="query" input-type="user" processing="strict" str="analyst" />
+      <term field="query" input-type="user" processing="strict" str="rational" />
+      <term field="query" input-type="user" processing="strict" str="auto" />
+      <term field="query" input-type="user" processing="strict" str="germany" />
+      <term field="query" input-type="user" processing="strict" str="automotive" />
+      <term field="query" input-type="user" processing="strict" str="lifecycle" />
+      <term field="query" input-type="user" processing="strict" str="jenkins" />
+      <term field="query" input-type="user" processing="strict" str="spring" />
+      <term field="query" input-type="user" processing="strict" str="java" />
+      <term field="query" input-type="user" processing="strict" str="jdbc" />
+      <term field="query" input-type="user" processing="strict" str="hibernate" />
+      <term field="query" input-type="user" processing="strict" str="appium" />
+      <term field="query" input-type="user" processing="strict" str="selenium" />
+      <term field="query" input-type="user" processing="strict" str="jmeter" />
+      <term field="query" input-type="user" phrase="phrase" processing="strict"
+        str="virtual private network" weight="2.1"
+      />
+      <term field="query" input-type="user" phrase="phrase" processing="strict"
+        str="business analyst" weight="1.69"
+      />
+      <term field="query" input-type="user" processing="strict" str="rational" />
+      <term field="query" input-type="user" processing="strict" str="auto" />
+      <term field="query" input-type="user" processing="strict" str="germany" />
+      <term field="query" input-type="user" processing="strict" str="automotive" />
+      <term field="query" input-type="user" processing="strict" str="lifecycle" />
+      <term field="query" input-type="user" processing="strict" str="jenkins" />
+      <term field="query" input-type="user" processing="strict" str="spring" />
+      <term field="query" input-type="user" processing="strict" str="java" />
+      <term field="query" input-type="user" processing="strict" str="jdbc" />
+      <term field="query" input-type="user" processing="strict" str="hibernate" />
+      <term field="query" input-type="user" processing="strict" str="appium" />
+      <term field="query" input-type="user" processing="strict" str="selenium" />
+      <term field="query" input-type="user" processing="strict" str="jmeter" />
+    </operator>
+  </operator>
+</query>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="2" total-results-with-duplicates="2" retrieved="2"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="12" total-results-with-duplicates="12" retrieved="12"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="2" total-results-with-duplicates="2" retrieved="2"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="12" total-results-with-duplicates="12" retrieved="12"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="1" total-results-with-duplicates="1" retrieved="1"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="PMP_Practitioner_Ontolection" status="queried" requested="20"
+  total-results="0" total-results-with-duplicates="0"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<query>
+  <op-exp logic="and">
+    <term field="v.condition-xpath" input-type="system"
+      str="($MYSA_TALENT_POOL_LOB='GBS' or $MYSA_TALENT_POOL_LOB='GTS') and $DEPLOYABILITY='Full' and ($TALENT_POOL_TYPE='IBM Regular' or $TALENT_POOL_TYPE='Affiliate') and $MYSA_PRCTNR_IND='1'"
+    />
+    <term field="v.arena" input-type="system" processing="optional"
+      str="PMP_Practitioner_Entity_Type"
+    />
+    <term field="v.binning-configuration" input-type="system"
+      processing="optional"
+      str="&lt;binning-set bs-id=&quot;ALL_JRSS_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ALL_JRSS_FACET&quot;/>&lt;binning-set bs-id=&quot;CERTIFICATION_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$CERTIFICATION_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_AM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_AM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_NONAM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_NONAM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OFFSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OFFSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OTHER_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OTHER_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_FD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_FD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_NP_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_NP_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_OD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_OD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_PC_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_PC_FACET&quot;/>&lt;binning-set bs-id=&quot;ISV_VENDOR_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ISV_VENDOR_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_AND_PROFICIENCY_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_AND_PROFICIENCY_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_FACET&quot;/>"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="PRACTITIONER_ID"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="FULL_NAME"
+    />
+    <op-exp logic="or">
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="analyst" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="rational" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="auto" />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive" />
+        <term field="query" relation="synonym" str="Automotive Industry" />
+        <term field="query" relation="synonym" str="Automotive" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="germany" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict"
+          str="automotive"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive" />
+        <term field="query" relation="synonym" str="Automotive Industry" />
+        <term field="query" relation="synonym" str="Auto" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="lifecycle" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jenkins" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="spring" />
+        <term field="query" relation="synonym" str="Spring Framework" />
+        <term field="query" relation="synonym" str="springboot" />
+        <term field="query" relation="synonym" str="Springcore" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="java" />
+        <term field="query" relation="synonym" str="Algorithm Expert Java" />
+        <term field="query" relation="synonym" str="Cloud Java" />
+        <term field="query" relation="synonym" str="Java programming" />
+        <term field="query" relation="synonym" str="Java development" />
+        <term field="query" relation="synonym" str="JAVA 8" />
+        <term field="query" relation="synonym"
+          str="Java Application Architecture"
+        />
+        <term field="query" relation="synonym" str="Java.Core" />
+        <term field="query" relation="synonym" str="Java Core" />
+        <term field="query" relation="synonym" str="コアのJava" />
+        <term field="query" relation="synonym" str="Javaコア" />
+        <term field="query" relation="synonym" str="Java developer" />
+        <term field="query" relation="synonym" str="Java Platform" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jdbc" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="hibernate" />
+        <term field="query" relation="synonym" str="Hibernet" />
+        <term field="query" relation="synonym" str="休止状態" />
+        <term field="query" relation="synonym" str="ハイバーネト" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="appium" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="selenium" />
+        <term field="query" relation="synonym" str="Selenium Test Management" />
+        <term field="query" relation="synonym" str="セレンテスト管理" />
+        <term field="query" relation="synonym"
+          str="Selenium テストマネジメント"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jmeter" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" phrase="phrase" processing="strict"
+          str="virtual private network" weight="2.1"
+        />
+        <term field="query" relation="synonym" str="VPN" />
+        <term field="query" relation="synonym"
+          str="バーチャル プライベート ネットワーク"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" phrase="phrase" processing="strict"
+          str="business analyst" weight="1.69"
+        />
+        <term field="query" relation="synonym" str="BA" />
+        <term field="query" relation="synonym" str="Requirements Analysis" />
+        <term field="query" relation="synonym" str="ビジネスアナリスト" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="rational" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="auto" />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive" />
+        <term field="query" relation="synonym" str="Automotive Industry" />
+        <term field="query" relation="synonym" str="Automotive" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="germany" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict"
+          str="automotive"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive" />
+        <term field="query" relation="synonym" str="Automotive Industry" />
+        <term field="query" relation="synonym" str="Auto" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="lifecycle" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jenkins" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="spring" />
+        <term field="query" relation="synonym" str="Spring Framework" />
+        <term field="query" relation="synonym" str="springboot" />
+        <term field="query" relation="synonym" str="Springcore" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="java" />
+        <term field="query" relation="synonym" str="Algorithm Expert Java" />
+        <term field="query" relation="synonym" str="Cloud Java" />
+        <term field="query" relation="synonym" str="Java programming" />
+        <term field="query" relation="synonym" str="Java development" />
+        <term field="query" relation="synonym" str="JAVA 8" />
+        <term field="query" relation="synonym"
+          str="Java Application Architecture"
+        />
+        <term field="query" relation="synonym" str="Java.Core" />
+        <term field="query" relation="synonym" str="Java Core" />
+        <term field="query" relation="synonym" str="コアのJava" />
+        <term field="query" relation="synonym" str="Javaコア" />
+        <term field="query" relation="synonym" str="Java developer" />
+        <term field="query" relation="synonym" str="Java Platform" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jdbc" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="hibernate" />
+        <term field="query" relation="synonym" str="Hibernet" />
+        <term field="query" relation="synonym" str="休止状態" />
+        <term field="query" relation="synonym" str="ハイバーネト" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="appium" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="selenium" />
+        <term field="query" relation="synonym" str="Selenium Test Management" />
+        <term field="query" relation="synonym" str="セレンテスト管理" />
+        <term field="query" relation="synonym"
+          str="Selenium テストマネジメント"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jmeter" />
+        <option name="debug" value="false" />
+        <option name="profile" value="false" />
+      </op-exp>
+    </op-exp>
+  </op-exp>
+</query>
+<query>
+  <op-exp logic="and">
+    <term field="v.condition-xpath" input-type="system"
+      str="($MYSA_TALENT_POOL_LOB='GBS' or $MYSA_TALENT_POOL_LOB='GTS') and $DEPLOYABILITY='Full' and ($TALENT_POOL_TYPE='IBM Regular' or $TALENT_POOL_TYPE='Affiliate') and $MYSA_PRCTNR_IND='1'"
+    />
+    <term field="v.arena" input-type="system" processing="optional"
+      str="PMP_Practitioner_Entity_Type"
+    />
+    <term field="v.binning-configuration" input-type="system"
+      processing="optional"
+      str="&lt;binning-set bs-id=&quot;ALL_JRSS_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ALL_JRSS_FACET&quot;/>&lt;binning-set bs-id=&quot;CERTIFICATION_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$CERTIFICATION_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_AM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_AM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_NONAM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_NONAM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OFFSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OFFSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OTHER_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OTHER_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_FD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_FD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_NP_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_NP_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_OD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_OD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_PC_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_PC_FACET&quot;/>&lt;binning-set bs-id=&quot;ISV_VENDOR_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ISV_VENDOR_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_AND_PROFICIENCY_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_AND_PROFICIENCY_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_FACET&quot;/>"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="PRACTITIONER_ID"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="FULL_NAME"
+    />
+    <op-exp logic="or">
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="analyst"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="rational"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="auto"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Automotive Industry"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Automotive" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="germany"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict"
+          str="automotive" use="true"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Automotive Industry"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Auto" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="lifecycle"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jenkins"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="spring"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Spring Framework" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="springboot" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Springcore" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="java"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Algorithm Expert Java"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Cloud Java" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java programming" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java development" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="JAVA 8" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym"
+          str="Java Application Architecture" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java.Core" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Java Core" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="コアのJava" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Javaコア" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Java developer" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java Platform" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jdbc"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="hibernate"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Hibernet" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="休止状態" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="ハイバーネト"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="appium"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="selenium"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Selenium Test Management"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="セレンテスト管理"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym"
+          str="Selenium テストマネジメント" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jmeter"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" phrase="phrase" processing="strict"
+          str="virtual private network" weight="2.1" use="true"
+        />
+        <term field="query" relation="synonym" str="VPN" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym"
+          str="バーチャル プライベート ネットワーク" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" phrase="phrase" processing="strict"
+          str="business analyst" weight="1.69" use="true"
+        />
+        <term field="query" relation="synonym" str="BA" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Requirements Analysis"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="ビジネスアナリスト"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="rational"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="auto"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Automotive Industry"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Automotive" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="germany"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict"
+          str="automotive" use="true"
+        />
+        <term field="query" relation="synonym" str="INDUSTRY.Automotive"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Automotive Industry"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Auto" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="lifecycle"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jenkins"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="spring"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Spring Framework" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="springboot" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Springcore" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="java"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Algorithm Expert Java"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Cloud Java" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java programming" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java development" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="JAVA 8" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym"
+          str="Java Application Architecture" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java.Core" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Java Core" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="コアのJava" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Javaコア" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="Java developer" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="Java Platform" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jdbc"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="hibernate"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Hibernet" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="休止状態" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym" str="ハイバーネト"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="appium"
+          use="true"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="selenium"
+          use="true"
+        />
+        <term field="query" relation="synonym" str="Selenium Test Management"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+        <term field="query" relation="synonym" str="セレンテスト管理"
+          use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        />
+        <term field="query" relation="synonym"
+          str="Selenium テストマネジメント" use="true"
+          weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+          phrase="phrase"
+        />
+      </op-exp>
+      <op-exp logic="or" middle-string="OR" name="OR" precedence="2">
+        <term field="query" input-type="user" processing="strict" str="jmeter"
+          use="true"
+        />
+      </op-exp>
+    </op-exp>
+  </op-exp>
+</query>
+<query>
+  <operator logic="and">
+    <term field="v.condition-xpath" input-type="system"
+      str="($MYSA_TALENT_POOL_LOB='GBS' or $MYSA_TALENT_POOL_LOB='GTS') and $DEPLOYABILITY='Full' and ($TALENT_POOL_TYPE='IBM Regular' or $TALENT_POOL_TYPE='Affiliate') and $MYSA_PRCTNR_IND='1'"
+    />
+    <term field="v.arena" input-type="system" processing="optional"
+      str="PMP_Practitioner_Entity_Type"
+    />
+    <term field="v.binning-configuration" input-type="system"
+      processing="optional"
+      str="&lt;binning-set bs-id=&quot;ALL_JRSS_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ALL_JRSS_FACET&quot;/>&lt;binning-set bs-id=&quot;CERTIFICATION_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$CERTIFICATION_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_AM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_AM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_NONAM_ONSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_NONAM_ONSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OFFSHORE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OFFSHORE_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_OTHER_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_OTHER_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_FD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_FD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_NP_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_NP_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_OD_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_OD_FACET&quot;/>&lt;binning-set bs-id=&quot;COST_RATE_US_PC_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$COST_RATE_US_PC_FACET&quot;/>&lt;binning-set bs-id=&quot;ISV_VENDOR_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$ISV_VENDOR_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_AND_PROFICIENCY_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_AND_PROFICIENCY_FACET&quot;/>&lt;binning-set bs-id=&quot;LANGUAGE_FACET&quot; logic=&quot;or&quot; max-bins=&quot;8&quot; select=&quot;$LANGUAGE_FACET&quot;/>"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="PRACTITIONER_ID"
+    />
+    <term field="v.output-content" input-type="system" processing="optional"
+      str="FULL_NAME"
+    />
+    <operator logic="or">
+      <term field="query" input-type="user" processing="strict" str="analyst" />
+      <term field="query" input-type="user" processing="strict" str="rational" />
+      <term field="query" input-type="user" processing="strict" str="auto" />
+      <term field="query" str="INDUSTRY.Automotive"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Automotive Industry"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Automotive"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="germany" />
+      <term field="query" input-type="user" processing="strict" str="automotive" />
+      <term field="query" str="Auto"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="lifecycle" />
+      <term field="query" input-type="user" processing="strict" str="jenkins" />
+      <term field="query" input-type="user" processing="strict" str="spring" />
+      <term field="query" str="Spring Framework"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="springboot"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Springcore"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="java" />
+      <term field="query" str="Algorithm Expert Java"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Cloud Java"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Java programming"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Java development"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="JAVA 8"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Java Application Architecture"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Java.Core"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Java Core"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="コアのJava"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Javaコア"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Java developer"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="Java Platform"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="jdbc" />
+      <term field="query" input-type="user" processing="strict" str="hibernate" />
+      <term field="query" str="Hibernet"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="休止状態"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="ハイバーネト"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="appium" />
+      <term field="query" input-type="user" processing="strict" str="selenium" />
+      <term field="query" str="Selenium Test Management"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="セレンテスト管理"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Selenium テストマネジメント"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" processing="strict" str="jmeter" />
+      <term field="query" input-type="user" phrase="phrase" processing="strict"
+        str="virtual private network" weight="2.1"
+      />
+      <term field="query" str="VPN"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query"
+        str="バーチャル プライベート ネットワーク"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" input-type="user" phrase="phrase" processing="strict"
+        str="business analyst" weight="1.69"
+      />
+      <term field="query" str="BA"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+      <term field="query" str="Requirements Analysis"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        phrase="phrase" processing="strict" input-type="user"
+      />
+      <term field="query" str="ビジネスアナリスト"
+        weight="0.8,alternative:0.8,spelling:0.8,narrower:0.5,translation:0.5,broader:0.5,related:0.5"
+        processing="strict" input-type="user"
+      />
+    </operator>
+  </operator>
+</query>
+<added-source name="PMP_Practitioner_2_3" status="queried" requested="200"
+  total-results="15404" total-results-with-duplicates="15404" retrieved="200"
+>
+  <parse status="fetched processed parsed" />
+</added-source>
+<added-source name="" status="unknown" />
+<list start="0" per="200" num="200">
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09QCQQSQ" score="0.111111">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LEGROS, MARC</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09QCQQSQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5CCCE7C" score="0.1">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MOORES, TIM</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5CCCE7C</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5CPPSS7" score="0.0909091">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SMITH, Bob</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5CPPSS7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5CPQP2O" score="0.0833333">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MORGAN, HUW</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5CPQP2O</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09CO2PCJ" score="0.0769231">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">NEYT, JEAN-LOIS</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09CO2PCJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5CE7O7C" score="0.0714286">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">DE MARCHI, Paolo</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5CE7O7C</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09CEQQO2" score="0.0666667">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">PAYRAUD, OLIVIER</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09CEQQO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09CCSPEE" score="0.0625">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">COUSIN, BENOIT</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09CCSPEE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XHMC2EJ7P" score="0.0588235">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WILTING, Rob</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XHMC2EJ7P</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09QCQJC7" score="0.0555556">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">GRANGER, CELINE</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09QCQJC7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2O7N" score="0.0526316">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BACCO, ALBERTO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2O7N</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQSPCPJ" score="0.05">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Fritz, Michael</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQSPCPJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJJ2QN" score="0.047619">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Nowak, Holger</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJJ2QN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSQPJE" score="0.0454545">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Tchingov, Nikolay</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSQPJE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQPPNN2" score="0.0434783">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Meinert, Tobias</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQPPNN2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQJJJES" score="0.0416667">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Bergmann, Bernd</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQJJJES</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQQNCSP" score="0.04">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Huetter, Rupert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQQNCSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQQNCJJ" score="0.0384615">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Kuntz, Juergen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQQNCJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPQE2" score="0.037037">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Goeing, Frank</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPQE2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQPCEJJ" score="0.0357143">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Sauerland, Axel</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQPCEJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQSPO22" score="0.0344828">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Kriesinger, Klaus</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQSPO22</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TJQQJPJ" score="0.0333333">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Hellmann, Michael</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TJQQJPJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQCSQOC" score="0.0322581">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Dierkes, Stephan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQCSQOC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TJQQS27" score="0.03125">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Jostes, Dietmar</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TJQQS27</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCQJCOC" score="0.030303">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">TANIGUCHI, KENJI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCQJCOC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQCJ2PC" score="0.0294118">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Schel, Peter</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQCJ2PC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQC2QP2" score="0.0285714">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Leitner, Richard</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQC2QP2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCENCCC" score="0.0277778">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ABBATE, MARCO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCENCCC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TCSJPQN" score="0.027027">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Kuckelkorn, Joerg</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TCSJPQN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSQPNC" score="0.0263158">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Muelthei, Olaf</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSQPNC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPQ2S" score="0.025641">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Ludewig, Dirk</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPQ2S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJSNP7" score="0.025">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Donath, Conny</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJSNP7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPEJJ" score="0.0243902">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Eckart, Sascha</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPEJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSEPEN" score="0.0238095">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Kuehnel, Thomas</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSEPEN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQP7COJ" score="0.0232558">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Schroeck, Christoph</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQP7COJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQ7COEO" score="0.0227273">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Gauger, Thomas</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQ7COEO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQP2SNJ" score="0.0222222">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Seidel, Oliver</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQP2SNJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQJOPJP" score="0.0217391">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Joergensen, Sylvia</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQJOPJP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJSCPE" score="0.0212766">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Richter, Antje</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJSCPE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJSQJ2" score="0.0208333">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Blueher, Jens</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJSQJ2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQJJNJJ" score="0.0204082">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Tuerpe, Timo</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQJJNJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSEPJQ" score="0.02">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Goedtel, Dieter</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSEPJQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSP2SE" score="0.0196078">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Liebetrau, Dirk</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSP2SE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQQN2NE" score="0.0192308">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Heuer, Jens</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQQN2NE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQJJON7" score="0.0188679">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Mueller, Ronald</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQJJON7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQQNQS7" score="0.0185185">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Horn, Holger</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQQNQS7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQQO7E7" score="0.0181818">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Brendel, Berthold</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQQO7E7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TCS27P2" score="0.0178571">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Braun, Reinhold</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TCS27P2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TJQCOC7" score="0.0175439">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Boucsein, Heiko</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TJQCOC7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TCOQ72N" score="0.0172414">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Fuchs, Norbert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TCOQ72N</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BSCP2OJ" score="0.0169492">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HOMMA, YUGO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BSCP2OJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCEQJNS" score="0.0166667">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">FUKUDA, AKIRA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCEQJNS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCEJCJE" score="0.0163934">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HATTORI, AKIO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCEJCJE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJEQEPP" score="0.016129">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">NAKAYAMA, YOSHIKO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJEQEPP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQS7JEJ" score="0.015873">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Reuter, Blanka</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQS7JEJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6B7CSSNS" score="0.015625">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HAYASHI, KEI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6B7CSSNS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSS2N7" score="0.0153846">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Hanke, Hans-Christian</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSS2N7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPQCJ" score="0.0151515">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Martin, Stephen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPQCJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQSPCNS" score="0.0149254">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Johade, Ulrike</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQSPCNS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPSJJ" score="0.0147059">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Kuhn, Juergen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPSJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJPQ7P" score="0.0144928">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Fechter, Hilke</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJPQ7P</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJEJSP" score="0.0142857">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Lontke, Andreas</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJEJSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPJCO" score="0.0140845">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Hahner, Frank</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPJCO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPCCQ" score="0.0138889">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Puls, Harald</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPCCQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQQJOJS" score="0.0136986">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Windmueller, Jens</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQQJOJS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPONN" score="0.0135135">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Geifrig, Norbert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPONN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPPNO" score="0.0133333">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Stahl, Tobias</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPPNO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TCS2NCN" score="0.0131579">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Wetzel, Peter</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TCS2NCN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6BQ2CNQ2" score="0.012987">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">NAGAHARA, SEIJI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6BQ2CNQ2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2CO2" score="0.0128205">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">FONDACARO, FRANCESCA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2CO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJSQPC" score="0.0126582">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SOVRAN, GIANPIERO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJSQPC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUS32JNS" score="0.0125">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KNIGHT, JAMES</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUS32JNS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJOS7E7" score="0.0123457">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SUEYOSHI, TOMOYA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJOS7E7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKH2OONJP" score="0.0121951">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HUANG, QUN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKH2OONJP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKHC7ENEO" score="0.0120482">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Zhong, Wei</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKHC7ENEO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XUZCQQ2PN" score="0.0119048">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SHARMA, Brahm Swaroop</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XUZCQQ2PN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCC2SNP" score="0.0117647">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BOTCHA, HARI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCC2SNP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJS77NC" score="0.0116279">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KITAYAMA, FUMIHIKO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJS77NC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BC2ENO7" score="0.0114943">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">YOSHIMURA, Hideo</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BC2ENO7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCPSJ7O" score="0.0113636">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">NAKAMURA, MINORU</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCPSJ7O</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6B7JJQJN" score="0.011236">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SUGAO, HIROSHI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6B7JJQJN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJC2POP"
+    score="0.0111111"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">XI, YAN LIANG</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJC2POP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUN2JJO2" score="0.010989">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Consiglio, Ralph</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUN2JJO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BQNN77O" score="0.0108696">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KUROKAWA, TATSUYA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BQNN77O</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCJCPEQ" score="0.0107527">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WADA, SEIJI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCJCPEQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC32EQP" score="0.0106383">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Castillo, Luis</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC32EQP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHJE7PQC" score="0.0105263">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BISWAS, ARIJIT</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHJE7PQC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC37NCO" score="0.0104167">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Gleason, Pete</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC37NCO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCPJSEC" score="0.0103093">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BARI, NILESH</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCPJSEC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6BQ2J7QN"
+    score="0.0102041"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Matsushima, Wataru</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6BQ2J7QN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC3P2CO" score="0.010101">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Bhattacharjee, Suman</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC3P2CO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUJG2CJQ" score="0.01">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SARAMBALE, Prashant</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUJG2CJQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUPGNP7P" score="0.00990099">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Lafranchi, Paul</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUPGNP7P</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLU2GQONE" score="0.00980392">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Khan, Tahir</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLU2GQONE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC37OO2" score="0.00970874">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Rayappureddy, Srini</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC37OO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCEC2CQ"
+    score="0.00961538"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LAHIRI, GAUTAM</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCEC2CQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XTZCPEN7C" score="0.00952381">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ISMAIL, Ramy</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XTZCPEN7C</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XTZCSNQOC" score="0.00943396">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">RASHED, Yasser</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XTZCSNQOC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCCSNQN"
+    score="0.00934579"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Pathak, Praveen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCCSNQN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCCNCQ3"
+    score="0.00925926"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">RAY, DIBYENDU</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCCNCQ3</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCSEOJ5"
+    score="0.00917431"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Chauhan, Tankanath</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCSEOJ5</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUNGQC7S" score="0.00909091">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Ahmed, Naeem</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUNGQC7S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/ZKKXWCP277S" score="0.00900901">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LOPEZ VILLEGAS, ANA LILIA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">ZKKXWCP277S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCNCEO2"
+    score="0.00892857"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BEHARI DIXIT, SUBODH</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCNCEO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AXK3TC7SQO2" score="0.00884956">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Vauth, Ulrike</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AXK3TC7SQO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQJ22J2" score="0.00877193">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Bartsch, Thomas</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQJ22J2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TJQC7PO" score="0.00869565">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Avitabile, Marco</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TJQC7PO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPOCO" score="0.00862069">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Goldfuss, Juergen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPOCO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQC2SNQ" score="0.00854701">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Frey, Bernhard</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQC2SNQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJQQPEE" score="0.00847458">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">IWASHIGE, YUHJI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJQQPEE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TJQJJOQ" score="0.00840336">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Scheer, Olaf</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TJQJJOQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TC2OPO2" score="0.00833333">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Hasselberg, Norbert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TC2OPO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKH27JPOJ" score="0.00826446">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LI, JIA FAN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKH27JPOJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XHMCQQEOS" score="0.00819672">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BOSHOVEN, DICK</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XHMCQQEOS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09C72JJS" score="0.00813008">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LE COZ, CHRISTIAN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09C72JJS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPCSP" score="0.00806452">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Borchert, Anke</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPCSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSE7Q7" score="0.008">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Schikor, Stefan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSE7Q7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJOPCE" score="0.00793651">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Wolf, Matthias</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJOPCE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSP7JO" score="0.00787402">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Neubauer, Juergen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSP7JO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XHMCPO2CQ" score="0.0078125">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KOETSIER, Arjan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XHMCPO2CQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJJNOO" score="0.00775194">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Woelfel, Norbert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJJNOO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQSQJ2Q" score="0.00769231">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Siebel, Holger</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQSQJ2Q</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUN2SNES" score="0.00763359">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WRIGHT, SANDRA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUN2SNES</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAH7QEP2C"
+    score="0.00757576"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KALEKERE, ANANTH</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAH7QEP2C</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6B7QOQJN" score="0.0075188">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">GOTOH, TADASHI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6B7QOQJN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKH2OOEQE" score="0.00746269">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WANG, MIAO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKH2OOEQE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJQSPPO" score="0.00740741">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KITAMURA, TSUYOSHI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJQSPPO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6B7JSPOJ" score="0.00735294">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KASUKAWA, TAKENORI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6B7JSPOJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHNCNPQQ"
+    score="0.00729927"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MADIWALE, RAVINDRA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHNCNPQQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC37EJJ" score="0.00724638">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Khalakdina, Arshad</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC37EJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X9RRP7O27" score="0.00719424">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">UDREA, Iulian Razvan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X9RRP7O27</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJC2CSP"
+    score="0.00714286"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">CHEN, SHAO JUN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJC2CSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCQ2QE0" score="0.0070922">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Uplekar, Alka</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCQ2QE0</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X5TCS2NSQ" score="0.00704225">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">GUILLAUME, PHILIPPE</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X5TCS2NSQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09QCQJJE" score="0.00699301">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KSIAZEK, ALAIN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09QCQJJE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XGDCJS7NP" score="0.00694444">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">JANITS, ERWIN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XGDCJS7NP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQPJNSP" score="0.00689655">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Buecker, Aarno</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQPJNSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQQOEQE" score="0.00684932">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Michaletz, Joachim</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQQOEQE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQC77SP" score="0.00680272">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Prien, Gesa</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQC77SP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQPJOPC" score="0.00675676">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Beck, Andreas</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQPJOPC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPC2J" score="0.00671141">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Zurmuehl, Beate</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPC2J</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQJJ2QQ" score="0.00666667">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Berger, Michael</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQJJ2QQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSQO2P" score="0.00662252">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Does, Olaf</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSQO2P</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XHMCS2EPP" score="0.00657895">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HOGERWERF, MARCEL</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XHMCS2EPP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5CCCOP7" score="0.00653595">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">CLARKE, Darren</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5CCCOP7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPQNP" score="0.00649351">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Haas, Patricia</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPQNP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X3TQSPCO2" score="0.00645161">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Golla, Marc</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X3TQSPCO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPQQN" score="0.00641026">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Borchers, Rainer</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPQQN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2JQC" score="0.00636943">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ZOTTI, ANTONIO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2JQC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6BQ2JSJN"
+    score="0.00632911"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">TOMIOKA, TOSHIYUKI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6BQ2JSJN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJQE7EP" score="0.00628931">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MORI, TAKEHISA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJQE7EP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BQEOPQQ" score="0.00625">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">CHEN, YONGMING</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BQEOPQQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJCJOEJ" score="0.00621118">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KOBORI, Aki</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJCJOEJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUQEJEOQ" score="0.00617284">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Eickemeyer, Karen</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUQEJEOQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUQZEJPS" score="0.00613497">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KERIMOV, Mardan Namic</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUQZEJPS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCCON7E"
+    score="0.00609756"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KHAN, MASHOOD</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCCON7E</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUO322E7" score="0.00606061">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ASTARITA, JOHN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUO322E7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XTZCCQN2C" score="0.0060241">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ALY, Maie</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XTZCCQN2C</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJC2Q77"
+    score="0.00598802"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WAN, YONG</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJC2Q77</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJQ77PP"
+    score="0.00595238"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">HUANG, ZHENG</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJQ77PP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJC77NO"
+    score="0.00591716"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">JIN, REN JIE</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJC77NO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCSN720"
+    score="0.00588235"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Vinjarapu, Vyjayanthi</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCSN720</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2NJJ" score="0.00584795">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">DURANTE, ANDREA GIOVANNI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2NJJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6BQ2QOCC"
+    score="0.00581395"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MORIYASU, KAZUNOBU</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6BQ2QOCC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLU7327PN" score="0.00578035">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KOUL, KUNAL</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLU7327PN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAH7NSQ2S"
+    score="0.00574713"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">GOEL, KRISHAN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAH7NSQ2S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09CQQESE" score="0.00571429">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BOURCIER, RENE</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09CQQESE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6BQ2CPEJ"
+    score="0.00568182"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KAWAOKA, KAZUYUKI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6BQ2CPEJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUKI6B72CECP"
+    score="0.00564972"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">NINOMIYA, KEI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUKI6B72CECP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5C2CJNS" score="0.00561798">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">LAWSON, CHENG</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5C2CJNS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XZ5QCESNQ" score="0.00558659">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MATHUR, RAVI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XZ5QCESNQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSPP27" score="0.00555556">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Danzer, Stephan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSPP27</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQQ72SC" score="0.00552486">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Strohmer, Edwin</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQQ72SC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQSQ7EE" score="0.00549451">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Drygas, Robert</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQSQ7EE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQPPNEP" score="0.00546448">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Wannagat, Bernd</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQPPNEP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/T5U3TQQQC2J" score="0.00543478">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Sulzmann, Sabah</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">T5U3TQQQC2J</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BCJPN2S" score="0.00540541">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MIZUI, ETSUKO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BCJPN2S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2CQC" score="0.00537634">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">ANDREOLI, FABIO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2CQC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XADCJ2QO7" score="0.00534759">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SCIOTTA, ALFREDO</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XADCJ2QO7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BSP7272" score="0.00531915">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">MIZUNO, TAKASHI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BSP7272</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUNE77JN" score="0.00529101">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Locklear, Bryan</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUNE77JN</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AHLU5AHP77JOP"
+    score="0.00526316"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KARTHIKEYAN, AJAY</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AHLU5AHP77JOP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHNEJE7E" score="0.0052356">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SRINIVASAN, SRIRAM</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHNEJE7E</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUC3QS2S" score="0.00520833">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Sherzer, Carl</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUC3QS2S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLU737COC" score="0.00518135">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">YANG, ZHONG</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLU737COC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLU23OP7S" score="0.00515464">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">SMITH, Daniel</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLU23OP7S</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUN2JNQO" score="0.00512821">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WELLMAN, RHEANNA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUN2JNQO</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLU2GQNJ7" score="0.00510204">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Samandur, Ravi</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLU2GQNJ7</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/Z3K3MKHJQCNQQ"
+    score="0.00507614"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">YING, JIA QI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">Z3K3MKHJQCNQQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHCOPENJ"
+    score="0.00505051"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">POKALE, NARENDRA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHCOPENJ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XKGCC2J2O" score="0.00502513">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">WALKER, DAVID</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XKGCC2J2O</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X59CNNCC2" score="0.005">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">STELLA PRADO, ROSANGELA</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X59CNNCC2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AXK3TJQJSSP" score="0.00497512">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Schmid, Frank</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AXK3TJQJSSP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X5TCCJJOS" score="0.0049505">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">DARCIS, JOHAN</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X5TCCJJOS</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X6BJPOCSQ" score="0.00492611">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">YASUFUKU, SEIICHI</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X6BJPOCSQ</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHSCCECC"
+    score="0.00490196"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">KULKARNI, SANTOSH</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHSCCECC</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUEGJJEP" score="0.00487805">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Coon, Bob</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUEGJJEP</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5XLUCP2NO2" score="0.00485437">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Varan, James</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5XLUCP2NO2</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/AZUAAHC2ESNE"
+    score="0.00483092"
+  >
+    <content name="FULL_NAME" indexed-fast-index="checked-set">Tyagi, Ekta</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">AZUAAHC2ESNE</content>
+  </document>
+  <document vse-key="PMP_Practitioner_Entity_Type/A5X09C7J7EP" score="0.00480769">
+    <content name="FULL_NAME" indexed-fast-index="checked-set">BECKER, Heinz-Joachim</content>
+    <content name="PRACTITIONER_ID" indexed-fast-index="checked-set">A5X09C7J7EP</content>
+  </document>
+</list>
+</query-results>
